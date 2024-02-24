@@ -1,0 +1,290 @@
+/*** product-card ***/
+
+.product-card {
+    outline: none;
+    width: 722px;
+    max-width: 100%;
+}
+
+.product-card .header {
+    display: flex;
+    align-items: center;
+}
+
+.product-card .header img {
+    width: 30px;
+}
+
+.product-card .icon-container,
+.product-card .title-container {
+    border-bottom: 1px solid var(--app-color-border-gray-ligth);
+}
+
+.product-card .icon-container {
+    padding: 0.75rem;
+    border-bottom: 1px solid var(--app-color-primary);
+}
+
+.product-card .title-container {
+    padding: 1rem 0.5rem;
+    text-transform: uppercase;
+    flex: 1;
+}
+
+.product-card .body {
+    padding: 16px;
+}
+
+.product-card .body ul {
+    list-style: none;
+    padding: 0;
+    margin-block-end: 0;
+}
+
+.product-card .body ul li {
+    list-style: none;
+    margin-bottom: 1rem;
+}
+
+.product-card .body ul li svg {
+    stroke: var(--app-color-primary);
+    top: 0rem;
+    position: relative;
+    margin-right: 0.5rem;
+}
+
+@media (min-width: 768px) {
+    .product-card .body ul li svg {
+        top: 0.25rem;
+    }
+    .product-card .body ul li {
+        display: inline-flex;
+        align-items: baseline;
+        vertical-align: top;
+        width: 50%;
+    }
+    .product-card .icon-container {
+        padding: 1rem;
+        border-bottom: 1px solid var(--app-color-primary);
+    }
+}
+
+
+/** Carousel nav **/
+
+.carousel-nav {
+    display: flex;
+    justify-content: center;
+}
+
+.carousel-nav-sub-container {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.carousel-nav button {
+    filter: grayscale(90%);
+    opacity: 0.5;
+    min-width: unset;
+    transition: filter 300ms cubic-bezier(0.4, 0, 0.2, 1);
+    border-bottom: 1px solid var(--app-color-border-gray-ligth);
+    padding: 12px 16px;
+}
+
+.carousel-nav button.active {
+    filter: grayscale(0%);
+}
+
+.carousel-nav img {
+    width: 30px;
+}
+
+.tab-indicator {
+    width: 62px;
+    bottom: 0;
+    height: 1px;
+    background-color: var(--app-color-primary);
+    position: absolute;
+    transition: all 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+
+/*** 
+    Pack Card
+    Require: card-shadow
+ ***/
+
+.pack {
+    display: flex;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    margin: 0.5rem 0.5rem 1.5rem 0.5rem;
+    border-radius: 8px;
+}
+
+.pack::before {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 8px;
+    content: "";
+    display: block;
+    position: absolute;
+    background: linear-gradient(165deg, #7451eb -16%, #003668 75%);
+}
+
+.pack.active::after {
+    content: "";
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 8px;
+    display: block;
+    position: absolute;
+    background: linear-gradient(165deg, #7451eb -16%, #003668 75%);
+}
+
+.pack img {
+    width: 64px;
+    height: 64px;
+    margin: 1rem 0rem;
+    margin-bottom: 1.7rem;
+}
+
+.pack .pack-sub-container {
+    padding: 16px;
+    padding-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.pack .pack-title {
+    margin-bottom: 1.5rem;
+}
+
+.pack .pack-footer-container {
+    align-self: center;
+    margin-top: auto;
+    padding: 8px;
+    padding-top: 1rem;
+}
+
+.pack .pack-sub-container {
+    padding-bottom: 2rem;
+    display: flex;
+}
+
+.pack .badge {
+    margin-top: 1rem;
+    margin-bottom: 2.5rem;
+    border-radius: 4px;
+    padding: 0rem 0.25rem;
+    margin-left: 0;
+}
+
+@media (max-width: 767.95px) {
+    .pack.active {
+        margin-left: 1.5rem;
+        margin-right: 1.5rem;
+        margin: 0.5rem 0.5rem 1.5rem 0.5rem;
+        min-height: 265px;
+    }
+    .pack .pack-sub-container {
+        width: 100%;
+    }
+    .pack {
+        margin-left: 1.5rem;
+        margin-right: 1.5rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .pack.active {
+        width: 50%;
+    }
+}
+
+@media (min-width: 992px) {
+    .pack {
+        width: 216px;
+        min-height: 365px;
+    }
+    .pack.active {
+        flex-grow: 1;
+        max-width: 30%;
+        width: auto;
+        min-height: 365px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .pack {
+        width: 256px;
+    }
+    .pack.active {
+        width: 256px;
+    }
+}
+
+
+/*** 
+    Council-card-type
+    Require: card-shadow
+ ***/
+
+.council-card-type {
+    padding: 2.5rem 2rem;
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.council-card-type .btn {
+    font-weight: 700;
+    margin-top: 2rem;
+}
+
+.council-card-type .strong-paragraph {
+    margin-top: 0;
+}
+
+.council-card-type .strong-paragraph~p {
+    margin-top: 0.5rem;
+    width: 65%;
+}
+
+.council-card-type svg,
+.council-card-type .masked-bloc {
+    pointer-events: none;
+    top: 0;
+    right: 0;
+    width: 35%;
+    height: 100%;
+    margin: 0;
+    z-index: 0;
+    position: absolute;
+}
+
+.council-card-type .masked-bloc {
+    clip-path: url(#mask_1);
+    background: linear-gradient(165deg, #7451eb -16%, #003668 75%);
+    background-size: 200% 100%;
+}
+
+@media (max-width: 479.95px) {
+    .council-card-type {
+        padding-bottom: 10rem;
+    }
+    .council-card-type svg,
+    .council-card-type .masked-bloc {
+        top: initial;
+        width: 100%;
+        bottom: 0;
+        height: 45%;
+    }
+    .council-card-type .strong-paragraph~p {
+        width: 100%;
+    }
+}
