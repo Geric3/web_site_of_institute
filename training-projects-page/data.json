@@ -1,0 +1,433 @@
+[
+    {
+        "id":"as34nb787",
+        "category":"Développement",
+        "projects":[
+            "Utilisez les bases de Python pour l'analyse de marché",
+            "Designez une application Python adaptée aux besoins d'un client",
+            "Développez un programme logiciel en Python",
+            "Développez une interface utilisateur pour une application web Python",
+            "Résolvez des problèmes en utilisant des algorithmes en Python",
+            "Développez une application Web en utilisant Django",
+            "Créez une API sécurisée RESTful en utilisant Django REST",
+            "Améliorez une application Web Python par des tests et du débogage",
+            "Développez une architecture back-end sécurisée avec Python et SQL",
+            "Mettez à l'échelle une application Django en utilisant une architecture modulaire"
+        ],
+        "titre":"Développeur d'application Python",
+        "cover":"./img/img-python.png",
+        "description":[
+            "Vous travaillez comme analyste marketing dans une librairie en ligne. Vous voulez suivre les prix de vos concurrents. Utilisez Python pour accomplir cette mission !",
+            "Une association du secteur de l’éducation a fait appel à votre agence pour développer son application Python. Définissez clairement les besoins du client et prototypez la solution technique !",
+            "Une organisation locale a besoin d'aide pour gérer ses événements. C'est à vous d'en rédiger le nouveau programme. Il est temps de mettre à profit vos nouvelles compétences en matière de développement de logiciels Python !",
+            "Passionné de cinéma et d’informatique, vous décidez de mettre vos compétences au service d’une association pour développer une application web permettant de visualiser en temps réel les films les mieux notés du 7ème art. Une belle occasion de vous plonger",
+            "Vous avez rejoint une société financière et êtes chargé(e) de rendre les programmes d'investissement plus compétitifs. Concevez un algorithme en Python pour maximiser les profits des clients !",
+            "Vous venez d'être engagé(e) comme développeur(se) Python principal(e) dans une nouvelle start-up. Utilisez le puissant framework Django pour faire de leur premier produit numérique une réalité !",
+            "Approfondissez votre maîtrise de Django avec le framework Django REST : créez et documentez une API RESTful conforme aux normes de sécurité OWASP et RGPD.",
+            "Améliorez une application Flask en corrigeant des erreurs et en ajoutant des fonctionnalités à l'aide du test-driven design ou TDD. Vous devez bien connaître votre application, vous risquez d'être confronté(e) à des demandes de dernière minute !",
+            "Sauvez votre entreprise de gestion d'événements d'un désastre en matière de relations publiques ! Développez une architecture back-end sécurisée. Utilisez Python et SQL pour fournir un logiciel de gestion de la relation client (CRM).",
+            "Votre nouvel employeur s'appuie sur un site web Django instable, qui présente une dette technique importante. À vous d'améliorer son architecture et son déploiement, et de mettre en place un système de suivi du code !"
+        ],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 9 mois + 3 mois de stage",
+        "duree":[
+            "70 heures supervisées",
+            "70 heures supervisées",
+            "90 heures supervisées",
+            "50 heures supervisées",
+            "65 heures supervisées",
+            "120 heures supervisées",
+            "90 heures supervisées",
+            "110 heures supervisées",
+            "90 heures supervisées",
+            "140 heures supervisées"
+        ]
+        
+    },
+    {
+        "id":"asb23hyd73",
+        "category":"Développement",
+        "projects":[
+            "Créez la page d'accueil d'une agence de voyage de la place avec HTML & CSS",
+            "Dynamisez une page web avec des animations CSS",
+            "Premiers pas sur le langage JavaScript",
+            "Créez une landing page avec Javascript",
+            "Créez un site accessible pour une plateforme de photographes",
+            "Développez un algorithme de recherche en JavaScript",
+            "Débuggez et testez un SaaS RH",
+            "Définissez les besoins pour une app de soutien scolaire",
+            "Développez une application Web avec React et React Router",
+            "Développez un tableau de bord d'analytics avec React",
+            "Utilisez une API pour un compte utilisateur bancaire avec React",
+            "Faites passer une librairie jQuery vers React"
+        ],
+        "titre":"Développeur d'application JavaScript",
+        "cover":"./img/img-JS.png",
+        "description":[
+            "Démarrez sur HTML et CSS en intégrant la page Web de Booki, une plateforme de réservation de vacances.",
+            "Implémentez la version mobile d'un site de restaurant avec des animations CSS.",
+            "Réalisez le carrousel du site Internet d’une imprimerie avec JavaScript",
+            "Démarrez le Javascript avec le site  d'une entreprise de gaming. Dans ce premier projet de code, vous apprendrez à programmer avec Javascript depuis zéro.",
+            "Allez plus loin en Javascript avec Fisheye, cette application de photographes freelances. Portez une attention toute particulière au fait de rendre cette application accessible à tous.",
+            "Implémentez un algorithme de recherche de recettes de cuisines pour le site Les Petits Plats grâce à des outils et méthodes avancées de Javascript ainsi que Bootstrap pour l'interface.",
+            "L'application de gestion de notes de frais Billed est pleine de bugs. Corrigez le code et implémentez des tests unitaires et d'intégration pour que ce ne soit plus le cas.",
+            "Définissez les besoins pour votre nouveau client, une association de soutien scolaire. Vous utiliserez les outils agiles comme les User Stories.",
+            "Implémentez le front end de Kasa, une application de location de logements. Mettez en place des composants avec React et les routes de l'application avec React Router.",
+            "Intégrez des graphiques et des diagrammes avec React pour SportSee, un tableau de bord d'analytics de sport. Vous utiliserez une API pour récupérer les données.",
+            "Remede Agency a besoin de vous pour compléter le code de leur site. Vous écrirez des appels à l'API REST pour connecter le front au back et vous modéliserez une API.",
+            "Participez à la conversion de HRnet vers React. Vous allez transformer un plugin jQuery du site en React, vous pourrez même choisir celui que vous voudrez !"
+
+        ],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 9 mois + 3 mois de stage",
+        "duree":[
+            "70 heures supervisées",
+            "75 heures supervisées",
+            "30 heures supervisées",
+            "35 heures supervisées",
+            "80 heures supervisées",
+            "85 heures supervisées",
+            "70 heures supervisées",
+            "50 heures supervisées",
+            "75 heures supervisées",
+            "65 heures supervisées",
+            "110 heures supervisées",
+            "130 heures supervisées"
+        ]
+        
+    },
+    {
+        "id":"smart46782",
+        "category":"Développement",
+        "projects":[
+            "Débuggez une application Java",
+            "Désignez une application Java adaptée aux besoins clients",
+            "Testez l'implémentation d'une nouvelle fonctionnalité Java",
+            "Créez votre première application web avec Spring Boot",
+            "Concevez une application web Java de A à Z",
+            "Complétez votre backend pour rendre votre application plus sécurisée",
+            "Améliorez votre application avec des systèmes distribués",
+            "Développez une solution en microservices pour votre client"
+        ],
+        "titre":"Développeur d'application Java",
+        "cover":"./img/img-java.png",
+        "description":[
+            "Vous avez été embauché pour terminer l’application d’un autre développeur. Êtes-vous prêt à traquer des bugs et faire passer tous les tests au vert ? C’est parti !",
+            "Une association du secteur de l’éducation a fait appel à votre agence pour développer son application Java. Définissez clairement les besoins du client et prototypez la solution technique !",
+            "Les tests d'une application ne sont pas valides. Votre mission : complétez le code pour faire passer les tests au vert ! Vous devrez aussi coder une fonctionnalité et écrire son test.",
+            "Implémentez une fonctionnalité d'alerte pour une application de premiers secours avec le framework Spring Boot. Vous utiliserez les bonnes pratiques de code comme SOLID et les pyramides de tests.",
+            "Créez votre première application Java connectée de manière sécurisée à une base de données. Vous utiliserez un diagramme UML pour concevoir l'architecture de votre application.",
+            "Utilisez une API REST pour moderniser le backend de votre application. Vous rédigerez aussi des tests pour assurer son fonctionnement à chaque déploiement.",
+            "Une agence de voyage vous demande d'adapter son application monolithique pour la faire évoluer plus facilement. À vous de la transformer en éléments découplés.",
+            "Utilisez les bases de données NoSQL pour structurer les données d'une application en microservices. Travaillez en mode agile pour avancer au mieux sur votre projet."
+        ],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 9 mois + 3 mois de stage",
+        "duree":[
+            "80 heures supervisées",
+            "80 heures supervisées",
+            "85 heures supervisées",
+            "140 heures supervisées",
+            "160 heures supervisées",
+            "110 heures supervisées",
+            "160 heures supervisées",
+            "170 heures supervisées"
+        ]
+        
+    },
+    {
+        "id":"samrt213g324",
+        "category":"Développement",
+        "projects":[
+            "Découvrez le développement web avec HTML et PHP",
+            "Créez la page d'accueil d'une agence de voyage de la place avec HTML & CSS",
+            "Mettez en place un serveur et un site simple avec PHP",
+            "Développez des sites avec PHP et le modèle MVC",
+            "Mettez en place un site de mise en relation avec PHP",
+            "Concevez un modèle physique de données",
+            "Mettez en place un outil de gestion de projet avec Symfony",
+            "Planifiez un projet de développement informatique",
+            "Mettez en place une gestion d'utilisateurs et d'authentification",
+            "Créez une API avec Symfony pour mettre à disposition des données",
+            "Mettez en place un site de e-commerce avec Symfony",
+            "Implémentez des tests avec Symfony pour assurer la qualité du code en production",
+            "Refactorisez le code d'un site pour l'optimiser"
+        ],
+        
+        "titre":"Développeur d'application PHP",
+        "cover":"./img/img-php.png",
+        "description":[
+            "Ecrivez vos premières lignes de code : vous allez mettre à jour un site HTML puis rendre un site dynamique avec PHP dans ces exercices guidés.",
+            "Démarrez sur HTML et CSS en intégrant la page Web de Booki, une plateforme de réservation de vacances.",
+            "Découvrez les bases du développement back-end avec PHP. Dans cet exercice, vous apprendrez à mettre en place un site avec PHP et MySQL sur un serveur web.",
+            "Approfondissez vos compétences en PHP avec la programmation orientée objet et le modèle MVC, des concepts fondamentaux pour créer des sites complets en PHP.",
+            "Ce projet fait la synthèse de vos compétences en développement. Mettez en commun ce que vous avez appris en créant un site de mise en relation, front-end et back-end grâce à HTML, CSS et PHP.",
+            "Analysez la demande de votre client et créez le modèle de données pour préparer le développement d’un Saas de gestion de projet.",
+            "Passez à la vitesse supérieure en développement PHP grâce à Symfony. Vous ferez vos premiers pas avec ce framework et vous mettrez en place un Saas de gestion de projet fonctionnel.",
+            "Ce projet fait la synthèse de vos compétences en gestion de projet. Analysez les besoins d’un client et préparez la solution fonctionnelle et technique ainsi que la planification de projet. Puis, présentez votre proposition au client.",
+            "Reprenez votre Saas de gestion de projet développé en Symfony afin de le finaliser. Vous ajouterez la logique d’authentification et créerez des profils utilisateurs.",
+            "Ce projet vous emmène plus loin dans le développement back-end. Vous mettrez en place une API grâce à Symfony afin de mettre à disposition des données à d’autres sites.",
+            "Ce projet fait la synthèse de vos compétences sur Symfony. Vous mettrez en place un site complet grâce à des vues Twig, une base de données gérée avec Doctrine ainsi qu’une API pour mettre à disposition des données du site.",
+            "Ces exercices vous guideront pour ajouter des tests à vos applications Symfony afin de garantir la qualité du code, ainsi que publier votre site pour qu’il soit accessible.",
+            "Ce projet fait la synthèse de vos compétences sur l’assurance qualité. Vous reprendrez un site existant afin de le débugger, le tester, l’optimiser, documenter son fonctionnement et le déployer en production."
+        ],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 9 mois + 3 mois de stage",
+        "duree":[
+            "60 heures supervisées",
+            "60 heures supervisées",
+            "60 heures supervisées",
+            "90 heures supervisées",
+            "70 heures supervisées",
+            "40 heures supervisées",
+            "70 heures supervisées",
+            "70 heures supervisées",
+            "40 heures supervisées",
+            "75 heures supervisées",
+            "75 heures supervisées",
+            "75 heures supervisées",
+            "90 heures supervisées"
+        ]
+        
+    },
+    {
+        "id":"smartc23g34",
+        "category":"Développement",
+        "projects":[
+            "Découvrez le développement mobile Android",
+            "Développez votre première application Android en Java",
+            "Implémentez l'accès à des données externes pour une application en Kotlin",
+            "Concevez une base de données pour une application Android",
+            "Choisissez votre langage de spécialité",
+            "Implémentez une base de données locales en utilisant ROOM",
+            "Créez une application Android en MVVM de A à Z",
+            "Améliorez une interface existante pour la rendre plus accessible",
+            "Planifiez un projet de développement Android",
+            "Créez une interface dynamique et accessible avec Jetpack Compose",
+            "Implémentez une base de données avec Firebase",
+            "Testez une application Android"
+        ],
+        "titre":"Développeur d'application Android",
+        "cover":"./img/img-android.png",
+        "description":[
+            "Faites vos premiers pas dans le développement Android avec XML et Java.",
+            "Approfondissez vos compétences Java et découvrez les bonnes pratiques de programmation (POO et MVVM) pour créer une interface dynamique.",
+            "Plongez dans Kotlin, le langage de programmation Android le plus recherché sur le marché et gérez l’accès aux données.",
+            "Modélisez la solution technique en utilisant UML.",
+            "Examinez les avantages des deux langages, Kotlin et Java, et spécialisez-vous sur l’un d’entre eux.",
+            "Gérez des données privées lors de l’utilisation d’une application hors-ligne grâce à des modèles de bases de données.",
+            "Validez la maîtrise des compétences fondamentales au développement Android en développant une application complète.",
+            "Appliquez les bonnes pratiques d'accessibilité en utilisant les méthodologies agiles, afin d’améliorer une UI existante.",
+            "Validez vos compétences en planification de projet en analysant, concevant et organisant un projet.",
+            "Utilisez le framework Jetpack Compose et mettez en œuvre les patrons de conception pour développer une interface mobile avancée.",
+            "Mettez en place une base de données sécurisée en utilisant Firebase.",
+            "Implémentez des tests unitaires et des tests d’intégration pour refactoriser une application Android en utilisant Behavior Driven Development."
+        ],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 9 mois + 3 mois de stage",
+        "duree":[
+            "50 heures supervisées",
+            "90 heures supervisées",
+            "80 heures supervisées",
+            "30 heures supervisées",
+            "10 heures supervisées",
+            "40 heures supervisées",
+            "85 heures supervisées",
+            "40 heures supervisées",
+            "60 heures supervisées",
+            "70 heures supervisées",
+            "60 heures supervisées",
+            "40 heures supervisées"
+        ]
+        
+    },
+    {
+        "id":"bqweb23438",
+        "category":"Développement",
+        "projects":[
+            "Créez la page d'accueil d'une agence de voyage de la place avec HTML & CSS",
+            "Dynamisez une page web avec des animations CSS",
+            "Créez une page web dynamique avec JavaScript",
+            "Planifiez le développement du site de votre client",
+            "Débuggez et optimisez un site de photographe",
+            "Créez une application web de location immobilière avec React",
+            "Développez le back-end d'un site de notation de livres",
+            "Débuggez le site d'une agence d'événementiel",
+            "Créez et publiez votre portfolio de développeur"
+        ],
+        "titre":"Développeur Web",
+        "cover":"./img/img-dev-web.png",
+        "description":[
+            "Démarrez sur HTML et CSS en intégrant la page Web de Booki, une plateforme de réservation de vacances.",
+            "Implémentez la version mobile d'un site de restaurant avec des animations CSS.",
+            "Aidez votre équipe à finaliser le nouveau site internet d’une architecte grâce à la création d’un site dynamique avec JavaScript, communiquant avec une API.",
+            "Planifiez chacune des étapes du projet de développement d’un site de création de menus pour les restaurateurs.",
+            "Aidez votre client à apparaître en tête des résultats de recherche Google grâce aux bonnes pratiques de SEO et d’accessibilité. Vous devrez également debugger certaines anomalies dans le code.",
+            "Implémentez le front end de Kasa, une application de location de logements. Mettez en place des composants avec React et les routes de l'application avec React Router.",
+            "Créez le back-end d’un site de notation de livres pour qu’il s’intègre correctement avec le front-end. Vous utilisez Node.js, Express et MongoDB.",
+            "Prenez le relais d’un autre développeur pour débugger le site de l’agence 724events.",
+            "Faites le point sur vos compétences, préparez votre recherche d'emploi et déployez votre portfolio en ligne pour donner de la visibilité à vos projets."
+        ],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 6 mois + 3 mois de stage",
+        "duree":[
+            "80 heures supervisées",
+            "90 heures supervisées",
+            "70 heures supervisées",
+            "50 heures supervisées",
+            "50 heures supervisées",
+            "70 heures supervisées",
+            "70 heures supervisées",
+            "70 heures supervisées",
+            "40 heures supervisées"
+        ]
+        
+    },
+    {
+        "id":"fulsmart23189",
+        "category":"Développement",
+        "projects":[
+            "Développez le front-end en utilisant Angular",
+            "Développez le back-end en utilisant Java et Spring",
+            "Testez une application full-stack",
+            "Développez une application full-stack complète",
+            "Réalisez un cahier des charges fonctionnel et technique pour une application",
+            "Validez, chiffrez et cadrez un projet",
+            "Optimisez le référencement d'un site de photographe",
+            "Gérez un projet collaboratif en intégrant une démarche CI/CD",
+            "Formez et encadrez une équipe de développement Full-Stack",
+            "Planifiez des tests, de la surveillance et des backups",
+            "Implémentez le front-end d'une application bancaire avec React",
+            "Définissez une solution fonctionnelle et concevez l’architecture d’une application"
+        ],
+        "titre":"Développeur Full Stack",
+        "cover":"./img/img-fulstack.png",
+        "description":[
+            "Construisez le front-end d’une page web sportive afin que les utilisateurs puissent consulter l'historique des médailles olympiques.",
+            "Construisez le back-end d'une application de location pour mettre en relation des locataires et des propriétaires.",
+            "Venez en aide à un studio de yoga en mettant en place des tests de façon professionnelle sur son application déjà existante.",
+            "Créez un réseau social pour développeurs du front au back",
+            "Proposez une solution d'application CRM pour un service de livraison en définissant ses besoins.",
+            "Estimez les besoins d'un projet d’application pour un grand détaillant de vêtements.",
+            "Aidez votre client à apparaître en tête des résultats de recherche Google grâce aux bonnes pratiques de SEO et d’accessibilité.",
+            "Venez en aide à votre ami pour faire évoluer son application de blague du jour open-source avec l'aide de la communauté de développement.",
+            "Menez une équipe au succès dans un projet de développement en utilisant une méthodologie agile.",
+            "Améliorez la V1 d'une application de décoration d'intérieur en utilisant des plans de test, de sécurité et de sauvegarde de données.",
+            "Complétez le code de l'application bancaire Argent Bank avec React et Redux. Vous écriez des appels à l'API REST pour connecter le front au back et vous modéliserez une API.",
+            "Concevez l'architecture d'une application de location de voitures tout inclus."
+        ],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 9 mois + 3 mois de stage",
+        "duree":[
+            "40 heures supervisées",
+            "50 heures supervisées",
+            "40 heures supervisées",
+            "80 heures supervisées",
+            "40 heures supervisées",
+            "30 heures supervisées",
+            "40 heures supervisées",
+            "50 heures supervisées",
+            "30 heures supervisées",
+            "50 heures supervisées",
+            "90 heures supervisées",
+            "50 heures supervisées"
+        ]
+        
+    },
+    {
+        "id":"wosmart78632",
+        "category":"Développement",
+        "projects":[
+            "Créez la page d'accueil d'une agence de voyage de la place avec HTML & CSS",
+            "Créez un site complet avec WordPress sans utiliser de code",
+            "Premiers pas sur le langage PHP",
+            "Personnalisez un thème WordPress pour une startup avec HTML, CSS et PHP",
+            "Optimisez un site WordPress existant pour une marque de vêtements",
+            "Premiers pas sur le langage JavaScript",
+            "Améliorez le site d'un studio d'animation avec JavaScript et des animations CSS",
+            "Débuggez et testez un site WordPress d'outillage médical",
+            "Créez un site WordPress complexe pour une photographe freelance",
+            "Planifiez le développement d'un site de vente de vélos électriques",
+            "Créez et publiez votre portfolio de développeur"
+        ],
+        "titre":"Développeur WordPress",
+        "cover":"./img/img-worpress.png",
+        "description":[
+            "Démarrez sur HTML et CSS en intégrant la page Web de Booki, une plateforme de réservation de vacances.",
+            "Créez un site complet avec WordPress sans utiliser de code",
+            "Une galerie d’art souhaite améliorer la maintenabilité de son site. Faites vos premiers pas sur PHP pour automatiser la création des pages et retirer le code dupliqué.",
+            "Développez le site WordPress d’une jeune marque de boissons énergisantes. Utilisez PHP, les hooks et les filtres pour développer le site, et découvrez GitHub pour versionner le code.",
+            "Vous avez prospecté Chic Dressing en leur envoyant un audit et des recommandations pour améliorer leur site. Votre mission est d’optimiser les performances et le SEO de leur site.",
+            "Réalisez le carrousel du site Internet d’une imprimerie avec JavaScript",
+            "Ajoutez des éléments animés dans le site WordPress du studio Koukaki : vidéo, carrousel, effets de parallaxe ou encore d'apparition.",
+            "L’équipe de MedIT a cassé son site en voulant le mettre à jour. A vous de le remettre en état de marche et de résoudre les problèmes qui subsistent.",
+            "A partir de maquettes, vous devez créer un site personnalisé et léger pour une photographe, grâce aux custom post types ou encore aux champs ACF avec PHP.",
+            "Vous êtes recruté pour développer le nouveau site de e-commerce d’une start-up. Vous allez définir les spécifications techniques et planifier le projet de développement.",
+            "Déployez votre portfolio en ligne avec WordPress pour donner de la visibilité à vos projets. Vous êtes libre de développer le portfolio de votre choix (outils, interface, etc.)"
+        ],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 6 mois + 3 mois de stage",
+        "duree":[
+            "70 heures supervisées",
+            "50 heures supervisées",
+            "30 heures supervisées",
+            "80 heures supervisées",
+            "60 heures supervisées",
+            "30 heures supervisées",
+            "70 heures supervisées",
+            "50 heures supervisées",
+            "100 heures supervisées",
+            "70 heures supervisées",
+            "50 heures supervisées"
+        ]
+        
+    },
+
+    {
+        "id":"ancisamrt23754",
+        "category":"Cybersécurité",
+        "projects":[],
+        "titre":"Analyste Cybersécurité",
+        "cover":"./img/img-analyst-ciber.png",
+        "description":[],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 9 mois + 3 mois de stage",
+        "duree":[]
+    },
+
+    {
+        "id":"resposystsmart763628",
+        "category":"Cybersécurité",
+        "projects":[],
+        "titre":"Responsable en sécurité des systèmes d'information",
+        "cover":"./img/img-respo-securite.png",
+        "description":[],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 9 mois + 3 mois de stage",
+        "duree":[]
+    },
+
+    {
+        "id":"resposystsmart763628",
+        "category":"Système et Réseaux",
+        "projects":[],
+        "titre":"Administrateur des systèmes et réseaux informatique",
+        "cover":"./img/img-reso.png",
+        "description":[],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 9 mois + 3 mois de stage",
+        "duree":[]
+    },
+
+    {
+        "id":"bureausmart7630878",
+        "category":"Bureautique",
+        "projects":[],
+        "titre":"Bureautique",
+        "cover":"./img/img-buro.png",
+        "description":[],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 5 mois + 3 mois de stage",
+        "duree":[]
+    }
+]

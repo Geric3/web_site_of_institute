@@ -102,7 +102,7 @@ header .navbar {
 
 .nav-sub-menu hr {
     height: 3px;
-    margin: 0.75rem 0.75rem;
+    margin: 0.3rem 0.3rem;
     display: block;
     padding: 0;
     background-color: #dad9dc;
@@ -131,7 +131,7 @@ header .navbar {
     font-family: Inter, Inter-Bold;
     font-size: 1.25rem;
     letter-spacing: 0px;
-    line-height: 30px;
+    line-height: 8px;
     font-weight: 700;
     color: var(--app-color-text-gray);
     display: inline-block;
@@ -143,7 +143,7 @@ header .navbar {
 }
 
 .nav-sub-menu>li img {
-    width: 50px;
+    width: 36px;
     margin-right: 1rem;
 }
 
@@ -182,8 +182,8 @@ header .navbar {
 }
 
 .list-content {
-    letter-spacing: 0px;
-    line-height: 26px;
+    letter-spacing: 1px;
+    line-height: 15px;
     color: var(--app-color-text-primary);
 }
 
