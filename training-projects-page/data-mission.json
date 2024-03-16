@@ -1,0 +1,198 @@
+[
+    {
+        "id":"msi9803hd",
+        "description":[
+            "Concevoir et développer des applications Python grâce au framework Django.",
+            "Maintenir et mettre à jour des applications existantes.",
+            "Intégrer des bases de données et des APIs.",
+            "Tester et déboguer des applications pour garantir leur bon fonctionnement. ",
+            "Optimiser les performances des applications pour une expérience fluide."
+        ],
+        "work":"vous pourrez exercer de nombreux métiers dont celui de développeur d’application Python, de développeur spécialisé Django, de développeur back-end. La maitrise du langage Python pourra aussi vous ouvrir des portes vers les métiers de la data, comme Data Scientist.",
+        "title":"Développeur d'application Python",
+        "language":"Python, Django, Django REST, PyCharm, PostgreSQL, GitHub, Postman, CircleCI, et d'autres !"
+    },
+
+    {
+        "id":"script7674smart5",
+        "description":[
+            "Concevoir et développer des interfaces utilisateurs avec React.",
+            "Collaborer avec des designers pour traduire des maquettes en applications fonctionnelles. ",
+            "Optimiser les applications pour maximiser leur vitesse et leur efficacité. ",
+            "Intégrer des données provenant de diverses sources back-end et bases de données. ",
+            "Assurer la maintenance et la mise à jour des applications existantes."
+        ],
+        "work":"vous pourrez exercer de nombreux métiers dont celui de développeur d’application JavaScript React, de développeur front-end, ou aussi de concepteur d'interface utilisateur (UI Designer), ou encore architecte React.",
+        "title":"Développeur d'application JavaScript",
+        "language":"JavaScript, React, Redux, HTML, CSS, API, Git et GitHub, et autres."
+    },
+
+    {
+        "id":"devsmart3647hd",
+        "description":[
+            "Construire un site web responsive et dynamique s’adaptant à tout type d’écran grâce à l’intégration des éléments des maquettes graphiques (développement front-end avec HTML, CSS, JavaScript et React)",
+            "Créer des API et des bases de données pour développer des sites complets et dynamiques et assurer le bon fonctionnement côté serveur (développement back-end avec NodeJS, Express et MongoDB). ",
+            "Optimiser les performances et réaliser la maintenance de sites web déjà existants pour permettre leur fonctionnement optimal et une bonne visibilité sur les moteurs de recherche (SEO).",
+            "Gérer un projet web de A à Z : de la planification du projet à la présentation de la solution au client, en passant par la rédaction des spécifications techniques."
+        ],
+        "work":"vous pourrez exercer de nombreux métiers dont celui de développeur web, de développeur front-end, ou de développeur back-end",
+        "title":"Développeur Web"
+    },
+
+    {
+        "id":"astl663ht7",
+        "description":[
+            "Développement : Créer des applications Java selon les spécifications afin de répondre aux besoins des utilisateurs.",
+            "Maintenance : Mettre à jour et débugger les applications existantes pour garantir leur bon fonctionnement.",
+            "Tests : Effectuer des tests unitaires et d'intégration afin de s'assurer de la fiabilité des applications.",
+            "Performance : Optimiser la fluidité et la réactivité des applications pour améliorer l'expérience utilisateur.",
+            "Sécurité : Assurer la protection contre les vulnérabilités afin de préserver l'intégrité des données et la confiance des utilisateurs.",
+            "Collaboration : Coordonner avec les équipes projets et UX/UI pour garantir la cohérence et la qualité des applications."
+        ],
+        "work":"vous pourrez exercer de nombreux métiers dont celui de développeur back-end Java , de développeur d’application Java, ou encore de développeur spécialisé sur le framework Spring Boot.",
+        "title":"Développeur d'application Java",
+        "language":"Git/GitHub, Java, eclipse, Maven, UX Design, jUnit, Javadoc, Spring Boot, MVC, Solid, UML, SQL, No SQL."
+    },
+
+    {
+        "id":"webhs657gd8",
+        "description":[
+            "Concevoir des solutions numériques : vous créerez des architectures logicielles solides pour répondre aux besoins spécifiques des clients.",
+            "Développer des fonctionnalités : vous coderez des fonctionnalités avancées en utilisant PHP et les frameworks Symfony et Laravel pour garantir des performances optimales.",
+            "Optimiser et maintenir : vous assurerez la maintenance continue des applications existantes et veillerez à leur évolutivité.",
+            "Tester et déboguer des applications pour garantir leur bon fonctionnement."
+        ],
+        "work":"vous pourrez exercer de nombreux métiers dont celui de développeur d’application PHP Symfony, développeur back-end, ou encore chef de projet en développement web.",
+        "title":"Développeur d'application PHP",
+        "language":"PHP, Symfony, HTML, CSS, POO, MVC, Git, Twig, Doctrine, API, et bien d’autres !"
+    },
+
+    {
+        "id":"atlahg876",
+        "description":[
+            "Réaliser un audit des fonctionnalités et de l’architecture d’une application existante.",
+            "Anticiper les coûts et risques potentiels d’un projet.",
+            "Concevoir l’architecture et les composants logiciels d’une application dans le respect de la législation.",
+            "Créer des plans de test, de sécurité et de sauvegarde des données.",
+            "Intégrer le front-end et le back-end d'un programme en utilisant une API.",
+            "Rédiger des tests automatiques pour le code en front-end et en back-end.",
+            "Garantir un produit de qualité en automatisant la compilation et les tests grâce à l’intégration et la livraison continues.",
+            "Superviser l’exécution d’un projet par une équipe."
+        ],
+        "work":"vous pourrez exercer de nombreux métiers dont celui de développeur Full-Stack Java-Angular, de leader technique, d’analyste développeur ou encore de développeur backend/frontend.  ",
+        "title":"Développeur Full Stack",
+        "language":"Java, Angular 14, Spring, API REST, SQL, PostGreSQL, GitHub."
+    },
+
+    {
+        "id":"njsoi987t",
+        "description":[
+            "Concevoir et développer des applications mobiles Android robustes en utilisant les langages Kotlin et Java ",
+            "Développer des interfaces utilisateur interactives et accessibles grâce aux frameworks XML et Jetpack Compose ",
+            "Tester et déboguer des applications pour garantir leur bon fonctionnement",
+            "Optimiser les performances des applications pour une expérience utilisateur fluide"
+        ],
+        "work":"vous pourrez exercer de nombreux métiers dont celui de développeur d’application Android, développeur mobile, ingénieur logiciel pour applications mobiles ou encore consultant en développement d'applications.",
+        "title":"Développeur d'application Android",
+        "language":"Kotlin, Java, Android Studio, Git, XML, Jetpack Compose, Firebase, Retrofit, et autres."
+    },
+
+    {
+        "id":"vxfgs56sr45",
+        "description":[
+            "Créer des sites WordPress de manière efficace dans le cadre de développement d’activité ou de lancement de nouvelles offres de l’entreprise ou d’un client.",
+            "Personnaliser des thèmes et des plugins WordPress afin de développer des sites aux fonctionnalités avancées et à l’interface sur-mesure.",
+            "Optimiser les performances et réaliser la maintenance de sites web déjà existants pour permettre leur fonctionnement optimal et une bonne visibilité sur les moteurs de recherche (SEO).",
+            "Gérer un projet web de A à Z : du chiffrage et de  l’estimation du temps de travail à sa mise en ligne, en passant par la présentation d’un prototype et l’architecture du site."
+        ],
+        "work":"vous pourrez exercer les métiers de Développeur WordPress, Développeur web, Webmaster ou encore Développeur front-end.",
+        "title":"Développeur WordPress",
+        "language":"WordPress, PHP, HTML, CSS, Git & Github, JavaScript, Elementor, Gutenberg, ainsi que des notions de jQuery et de Responsive design."
+    },
+
+    {
+        "id":"swe387ebd",
+        "description":[
+            "Définir et mettre en œuvre la politique de sécurité",
+            "Procéder à un audit des systèmes d'information et préconiser des évolutions",
+            "Gérer les risques de l'entreprise dans le respect des réglementations (GDPR…)  ",
+            "Conduire et accompagner des projets de sécurité des SI",
+            "Mettre en place des techniques de sécurité afin de détecter des intrusions",
+            "Organiser les processus de traitement et de gestion des incidents",
+            "Mettre en œuvre le processus forensic",
+            "Sécuriser les infrastructures réseaux et systèmes et les applications web",
+            "Développer et promouvoir la politique auprès de tous les acteurs"
+        ],
+        "work":"Responsable Sécurité des SI, Responsable cybersécurité, Consultant en sécurité des SI, Ingénieur sécurité informatique, Auditeur sécurité des SI",
+        "title":"Responsable en sécurité des systèmes d'information"
+    },
+
+    {
+        "id":"boj78s4w3",
+        "description":[
+            "Investiguer des incidents de sécurité",
+            "Qualifier des alertes",
+            "Résoudre des incidents",
+            "Améliorer des processus et des systèmes de sécurité",
+            "Automatiser des réponses à incident",
+            "Contenir une propagation d'incident"
+        ],
+        "work":"vous pourrez exercer de nombreux métiers dont celui d’analyste SOC, veilleur-analyste et analyste détection d’incidents cybersécurité.",
+        "title":"Analyste Cybersécurité",
+        "language":"IOC, TTP, TLP, killchain, MITRE ATT&CK, MITRE D3FEND, les SIEM, SIRP, SOAR, EDR, le sandboxing, les composants de sécurité réseau (pare-feux, IDS/IPS, proxies, WAF), le langage Python, les outils ELK, Splunk, TheHive, Cortex, Wireshark / tshark ou encore n8n"
+    },
+
+    {
+        "id":"code76dt54",
+        "description":[
+            "Concevoir et modéliser un systèmes d’information",
+            "Installer et administrer des systèmes et des services réseaux",
+            "Mettre en œuvre une politique de sauvegarde",
+            "Évaluer et améliorer la sécurité des systèmes informatiques",
+            "Veiller à appliquer la politique de sécurité sur l'infrastructure SI",
+            "Gérer et résoudre les incidents techniques sur le réseau et les systèmes",
+            "Gérer les périphériques utilisateur (comme les postes de travail) ainsi que les accès des utilisateurs",
+            "Intégrer des solutions dans un système d’information",
+            "Superviser le bon fonctionnement et la performance du système d’information ",
+            "Piloter des projets d’amélioration ou d’évolution du SI"
+        ],
+        "work":"vous pourrez exercer de nombreux métiers dont celui de Administrateur systèmes et réseaux, de Administrateur systèmes Linux/Windows, ou aussi de Consultant réseaux et systèmes informatiques",
+        "title":"Administrateur des systèmes et réseaux informatique",
+        "language":"ITIL, GLPI, Linux, Windows Server, Active Directory, composants Cisco, passerelles VPN et autres composants de sécurité réseau, services httpd, SQL, SFTP, modules de types Netfilter ou Fail2ban, hyperviseur (comme VirtualBox), Nagios, rsync, Restic, PowerShell."
+    },
+
+    {
+        "id":"smayt65w32",
+        "description":[
+            "Utiliser les fonctionnalités de base de votre ordinateur",
+            "Naviguer efficacement sur internet",
+            "Créer du contenu sur différents logiciels courants",
+            "Communiquer en utilisant les outils digitaux",
+            "Sécuriser votre environnement numérique de travail",
+            "Résoudre un problème technique simple en autonomie"
+        ],
+        "work":"vous pourrez exercer de nombreux métiers dont celui se secretaire de bureau, assistant de direction, secretaire de direction.",
+        "title":"Bureautique"
+    },
+
+    {
+        "id":"983uywt563",
+        "description":[],
+        "work":"",
+        "title":""
+    },
+
+    {
+        "id":"2134er00ed",
+        "description":[],
+        "work":"",
+        "title":""
+    },
+
+    {
+        "id":"go7ste538sd",
+        "description":[],
+        "work":"",
+        "title":""
+    }
+]

@@ -1,0 +1,142 @@
+.displa-mode,
+.displa-mode2,
+.displa-mode1 {
+    display: none;
+    z-index: 2;
+}
+
+.modal1 {
+    display: block;
+    position: fixed;
+    z-index: 4;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0 0 0 / 50%);
+}
+
+.content-modal1 {
+    position: fixed;
+    top: 24%;
+    left: 17%;
+    z-index: 5;
+    width: 60%;
+    height: 50%;
+    background-color: beige;
+    padding: 17px;
+    border-radius: 20px;
+}
+
+.modal-close,
+.modal1-close,
+.modal2-close {
+    margin-left: 96%;
+    color: crimson;
+}
+
+.value .titl {
+    line-height: 25px;
+    margin-top: -65px;
+    margin-left: 65px;
+}
+
+.content-modal1 h4 {
+    color: crimson;
+}
+
+.value .img-value {
+    margin-bottom: 0.25rem;
+
+}
+
+.value .content-value {
+    margin-top: 1.5rem;
+}
+
+.bloc-projects .engagement-bloc {
+    width: 68%;
+    margin-left: 16%;
+    align-items: self-end;
+}
+
+.bloc-projects .bloc-type-twins {
+    margin-top: 37px;
+}
+
+.bloc-projects .project-descrip {
+    background-color: gainsboro;
+}
+
+.bloc-projects .project-title {
+    margin-bottom: 0.5rem;
+    text-align: center;
+    width: 65%;
+    background-color: blanchedalmond;
+}
+
+.bloc-projects .project-title h2 {
+    margin-bottom: -0.9rem;
+    text-align: center;
+    margin-left: 12%;
+}
+
+.bloc-projects .project-title .lock {
+    color: deeppink;
+    font-size: 2rem;
+    position: relative;
+    top: -95px;
+    left: 43%;
+
+
+}
+
+.bloc-opportunite-mission .texto {
+    width: 53%;
+    margin-bottom: 2%;
+}
+
+.bloc-opportunite {
+    width: 54%;
+    background-color: darkturquoise;
+    padding: 10px;
+    margin-top: -1%;
+
+
+}
+
+.bloc-opportunite h4 {
+    font-weight: 900;
+    text-align: center;
+}
+
+
+@media screen and (max-width:767px) {
+
+    .bloc-opportunite-mission h2,
+    h4 {
+        width: 100%;
+    }
+
+    .bloc-opportunite-mission .texto {
+        width: 100%;
+    }
+
+    .content-modal1 {
+        width: 70%;
+        height: 60%;
+    }
+
+    .account {
+        margin-left: 27%;
+        margin-bottom: -22%;
+    }
+
+    .content-modal1 .pack-button {
+        margin-left: -1%;
+    }
+
+    .senddata{
+        margin-left: 27%;
+    }
+}
