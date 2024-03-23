@@ -663,13 +663,20 @@ footer {
     width: 94%;
   }
 
+  .bloc-students .image-student{
+    margin-bottom: 8%;
+  }
+
   .bloc-students .student-image{
     margin-left: 6%;
   }
 
   .student-name-dots{
-    top: 62%;
+    top: 61%;
     left: 29%;
+  }
+  .student-pname{
+    margin-top: 0%;
   }
 
   .dots{
