@@ -637,46 +637,7 @@
 
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
   </script>
-  <script type="text/javascript">
-      (function () {
-          emailjs.init("9vm4t5UUKnD--qr0z");
-      })();
-  </script>
 
-<script>
-  // listen to the form submission
-  const sub = document.querySelector("#subject").value
-    const name = document.getElementById("name").value
-    const email = document.getElementById("email").value
-    const msg = document.getElementById("message").value
-    const error = document.querySelector(".error-msg")
-  document
-    .getElementById("myForm")
-    .addEventListener("submit", function (event) {
-      event.preventDefault();
-
-      const serviceID = "service_1yic4fc";
-      const templateID = "template_9qyxtlc";
-      if(sub !="" && name !="" && email != "" && msg !=""){
-            error.innerHTML = ""
-            emailjs.sendForm(serviceID, templateID, this).then(
-        (response) => {
-          console.log("SUCCESS!", response.status, response.text);
-          alert("SUCCESS!");
-        },
-        (error) => {
-          console.log("FAILED...", error);
-          alert("FAILED...", error);
-        }
-      );
-      }else{
-            error.innerHTML = "Remplissez tous les champs !!!"
-            error.style.color = "red"
-        }
-      // send the email here
-      
-    });
-</script>
 
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"
