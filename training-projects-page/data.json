@@ -398,36 +398,159 @@
     {
         "id":"resposystsmart763628",
         "category":"Cybersécurité",
-        "projects":[],
+        "projects":[
+            "24h dans la peau d'un Responsable en sécurité des Systèmes d'information",
+            "Sécurisez l'infrastructure SI d'une entreprise",
+            "Sécurisez une application du SI",
+            "Auditez la sécurité SI de l'entreprise",
+            "Mettez en place la surveillance de la sécurité SI",
+            "Investiguez un incident de sécurité",
+            "Gérez le risque SI d'une organisation",
+            "Réalisez une veille sur les menaces et les solutions",
+            "Réalisez un stage (ou une mission en entreprise) dans la sécurité des systèmes d'information"
+        ],
         "titre":"Responsable en sécurité des systèmes d'information",
         "cover":"./img/img-respo-securite.png",
-        "description":[],
+        "description":[
+            "A partir de témoignages, vous découvrirez les missions au quotidien d'un RSSI et commencerez à clarifier votre projet professionnel",
+            "À partir d'une demande d'un client, vous proposerez une architecture SI sécurisée.",
+            "Afin d'aider votre entreprise à réaliser une application web sécurisée pour accéder à son SI existant, vous proposerez la liste des vulnérabilités et rédigerez votre proposition pour présenter votre solution technique.",
+            "A partir de l'architecture SI de l'entreprise et de la politique SSI, vous proposerez un plan d'audit de sécurité contenant un audit externe et un audit interne.",
+            "A partir de l'architecture Si d'une entreprise, vous proposerez une architecture de surveillance SI, ses règles et des procédures de traitement d'alertes.",
+            "A partir de logs réseau, systèmes et applicatifs, vous effectuerez une analyse forensique pour détecter les attaques qui ont été menées et rédigerez un rapport d'incident qui évalue l'impact des attaques SI.",
+            "A partir des informations métier et organisationnelles d'une entreprise, du contexte des menaces et des obligations légales, vous identifierez les menaces sur la sécurité SI et évaluerez l'impact des attaques pour proposer une politique de sécurité.",
+            "Réalisez une veille technologique sur les vulnérabilités, les attaques et la réglementation, et rédigez un rapport de veille en évaluant des produits de sécurité du marché.",
+            "Pour valider votre formation, vous allez devoir effectuer un stage de 6 mois (20 à 26 semaines) afin de mettre en pratique vos compétences de futur Responsable en sécurité des systèmes d'information."
+        ],
         "diplome":"Parchemin délivré : DQP",
-        "time":"Durée : 9 mois + 3 mois de stage",
-        "duree":[]
+        "time":"Durée : 9 mois + 6 mois de stage",
+        "duree":[
+            "30 heures supervisées",
+            "70 heures supervisées",
+            "70 heures supervisées",
+            "80 heures supervisées",
+            "70 heures supervisées",
+            "80 heures supervisées",
+            "100 heures supervisées",
+            "20 heures supervisées",
+            "700 heures supervisées"
+        ]
     },
 
     {
-        "id":"resposystsmart763628",
+        "id":"resosecusmart763628",
         "category":"Système et Réseaux",
-        "projects":[],
+        "projects":[
+            "Gérez les demandes au quotidien",
+            "Mettez en place et documentez le réseau local d'une startup",
+            "Déployez une architecture n-tiers pour une PME",
+            "Mettez en place des services web sécurisés",
+            "Raccordez une entité et ses postes de travail au SI de votre entreprise",
+            "Configurez des services réseaux et des équipements d'interconnexion",
+            "Supervisez le SI d'une entreprise",
+            "Mettez en place une nouvelle solution de sauvegarde",
+            "Sécurisez le réseau d'une grande entreprise",
+            "Évaluez et améliorez le niveau de sécurité d'un domaine Windows et de l'Active Directory associé",
+            "Gérez une migration vers le cloud "
+        ],
         "titre":"Administrateur des systèmes et réseaux informatique",
         "cover":"./img/img-reso.png",
-        "description":[],
+        "description":[
+            "Dans ce projet, gérez et priorisez les demandes des utilisateurs en prenant les mesures nécessaires pour y répondre. Vous utiliserez GLPI ainsi que le référentiel ITIL.",
+            "Créez le réseau LAN d'une entreprise en IPv4, en prenant compte la sécurité du réseau, et répartissez les switchs en fonction de la capacité de chaque salle.",
+            "Mettez en place un serveur web, un serveur SQL et un serveur DNS via une architecture 3-tiers pour une startup.",
+            "Vous avez rejoint une sociète financière et êtes chargé de concevoir et déployer la nouvelle infrastructure sécurisée qui hébergera le tout nouveau site extranet de l'entreprise.",
+            "En tant qu'Administrateur Systèmes et Réseaux junior dans une entreprise bancaire, vous allez gérer les postes de travail des nouveaux locaux et les intégrer au système informatique.",
+            "Mettez en place le réseau d'un grand bâtiment pour une entreprise. Faites le plan d'adressage IPv4 et IPv6, mettez en place des VLAN et des services réseaux.",
+            "La PME MediaSanté, une société spécialisée dans les données de santé, a régulièrement des ralentissements de ses serveurs web. Elle souhaite donc en installer un nouveau, et placer des sondes afin d’anticiper les potentiels manques de ressources.",
+            "Vous êtes administrateur systèmes et réseaux à la mairie de Mareuil sur Oise, en charge d'un projet de recherche et développement sur l'outil de sauvegarde RESTIC.",
+            "Sécuriser l'architecture réseau d'une entreprise en mettant en pratique les recommandations de l'ANSSI.",
+            "Vous êtes auditeur en sécurité informatique freelance en mission pour la Clinique de Frontignan. Vous devez évaluer le niveau de sécurité de son système d'informations et mettre en lumière les vulnérabilités détectées.",
+            "Nimbus Corp souhaite migrer une application clé vers le cloud. Dans ce projet, vous orchestrerez cette transition en menant d'abord une veille technologique, puis en planifiant la migration pour assurer une continuité de service optimale."
+        ],
         "diplome":"Parchemin délivré : DQP",
         "time":"Durée : 9 mois + 3 mois de stage",
-        "duree":[]
+        "duree":[
+            "60 heures supervisées",
+            "100 heures supervisées",
+            "80 heures supervisées",
+            "70 heures supervisées",
+            "100 heures supervisées",
+            "90 heures supervisées",
+            "80 heures supervisées",
+            "60 heures supervisées",
+            "70 heures supervisées",
+            "80 heures supervisées",
+            "60 heures supervisées"
+        ]
+    },
+
+    {
+        "id":"markesmart763628",
+        "category":"Marketing  et Communication",
+        "projects":[
+            "Étudiez le marché et réalisez une veille pour le secteur de votre choix",
+            "Formalisez la stratégie éditoriale d'une marque",
+            "Gérez une situation de crise sur les réseaux sociaux d'une collectivité",
+            "Organisez la communication de lancement d'une startup high tech",
+            "Générez du trafic sur le site d'un hôtel prestigieux",
+            " Créez du contenu institutionnel et grand public pour développer une communauté",
+            "Développez votre présence en ligne",
+
+            "Mettez en oeuvre vos compétences de Chef de Projet Marketing"
+        ],
+        "titre":"Marketing Digital",
+        "cover":"./img/img-marke.png",
+        "description":[
+            "Réalisez une étude de marché afin de poser le bon diagnostic externe pour le secteur d’activité de choix ! Cela vous permettra de connaître les spécificités du marché et vous donnera un réel avantage compétitif.",
+            "La stratégie éditoriale d’une marque permet de créer de la cohérence dans la prise de parole. Définissez celle d’une marque de vêtement et travaillez à son application sur différents supports de communication.",
+            "Animez une communauté sur les réseaux sociaux et participez à la gestion de crise suite au lancement d’un jeu concours pour une collectivité.",
+            "Préparez le plan de communication de lancement d’Orthopia et développez les supports de communication proposés pour assurer le succès de votre campagne !",
+            "Définissez le plan d'action qui vous permettra de convertir des voyageurs potentiels en clients de l'hôtel.",
+            "Vous travaillez en tant que Community Manager dans une entreprise d'IA qui propose la création de jeux en ligne. Vous allez gérer la communication sur les réseaux sociaux, en réalisant un calendrier de publication et en créant du contenu.",
+            "Mettez au point votre stratégie de personal branding et commencez à l'exécuter pour faire rayonner votre marque personnelle.",
+
+            "Grâce à votre compréhension de l'activité marketing d'une entreprise et à vos connaissances, mettez en oeuvre vos compétences de Chef de projet Marketing et rédigez un rapport."
+        ],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 9 mois + 3 mois de stage",
+        "duree":[
+            "80 heures supervisées",
+            "110 heures supervisées",
+            "150 heures supervisées",
+            "150 heures supervisées",
+            "150 heures supervisées",
+            "70 heures supervisées",
+            "110 heures supervisées",
+
+            "400 heures supervisées"
+        ]
     },
 
     {
         "id":"bureausmart7630878",
         "category":"Bureautique",
-        "projects":[],
+        "projects":[
+            "Préparez un voyage professionnel",
+            "Présentez un nouvel outil à vos collègues",
+            "Améliorez le recrutement de votre entreprise grâce aux outils numériques",
+            "Formez une équipe à la sécurité informatique"
+        ],
         "titre":"Bureautique",
         "cover":"./img/img-buro.png",
-        "description":[],
+        "description":[
+            "Organisez un voyage de A à Z : itinéraire, hébergement, restaurants, visites... Faites les meilleurs choix grâce à Internet !",
+            "Connaissez-vous les cartes mentales ? Présentez cet outil lors d'une réunion avec vos collègues, en proposant des supports adaptés.",
+            "Aidez votre collègue à recruter, grâce à des outils de communication et de collaboration en ligne.",
+            "Formez vos collègues aux bonnes pratiques de la sécurité sur 4 domaines précis."
+        ],
         "diplome":"Parchemin délivré : DQP",
         "time":"Durée : 5 mois + 3 mois de stage",
-        "duree":[]
+        "duree":[
+            "40 heures supervisées",
+            "60 heures supervisées",
+            "50 heures supervisées",
+            "70 heures supervisées"
+        ]
     }
 ]

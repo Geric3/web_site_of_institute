@@ -34,6 +34,7 @@
     integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
   <link rel="stylesheet" href="./css/normalize.css" />
   <link rel="stylesheet" href="./css/style.css" />
+  <link rel="stylesheet" href="./projects-fields-page/style-fields.css" />
   <link rel="stylesheet" href="../assets/css/sidebar.css">
   <link rel="stylesheet" href="../assets/css/style.css">
   <link rel="stylesheet" href="../assets/css/bootstrap-override.css">
@@ -153,7 +154,7 @@
             </ul>
           </div>
           <div class="navbar-collapse-contact-link">
-            <a class="btn btn-primary" href="javascript:void(0);">Nous contacter</a>
+            <a class="btn btn-primary" href="#myForm">Nous contacter</a>
           </div>
 
         </div>
@@ -165,6 +166,7 @@
     <p style="font-size: 1rem;
     letter-spacing: 1px; margin-left: 2.8em;">Apprenez un métier qui a de l’avenir avec nos formations
       professionnalisante.</p>
+    <!-- <img src="./img/img-profi.png" alt=""> -->
   </section>
   <!-- la  partie  category projects -->
   <section class="filterSections">
@@ -252,13 +254,39 @@
             </div>
           </div>
         </div>
+
+        <div class="bloc-students">
+          <div class="engagement-section-sub-container">
+            <h2 class="bloc-student-title">Quelques étudiants expriment leur reconnaissance sur la qualité de la formation</h2>
+            <div class="bloc-type-twins engagement-bloc">
+              <div class="bloc-type-twins-first">
+                <img class="student-image" src="./img/capture-el.png" alt="">
+              </div>
+              <div class="bloc-type-twins-second bloc-anonce">
+                <p> Cette formation a été un tournant dans ma carriere. Atlas Institute, m'a fait sortir de ma zone de confor, m'a donné confiance pour me lancer dans un monde nouveau qui est celui du développement d'application, je n'aurai jamis imaginé!
+                </p>
+                
+                <div class="student-name-dots">
+                  <h3 class="student-name">Elisabete </h3><span class="student-pname"></span>
+                </div>
+                <div class="dots">
+                  <div class="dot" data-name="student-1"></div>
+                  <div class="dot" data-name="student-2"></div>
+                  <div class="dot" data-name="student-3"></div>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+        
         <div class="council-card-container">
           <div class="council-card-type card-shadow ">
             <div>
               <p class="strong-paragraph">Discutez avec nos conseillers</p>
               <p>Nos spécialistes sont à votre écoute pour vous aider à révéler le talent de vos équipes.
               </p>
-              <a class="btn btn-primary pack-button" href="javascript:void(0);">Demander plus
+              <a class="btn btn-primary pack-button" href="https://wa.me/qr/VANWJGIM3JHDF1" target="_blank" rel="noopener noreferrer">Demander plus
                 d'informations</a>
             </div>
             <div>
@@ -283,6 +311,55 @@
             fill="#F5F5F5"></path>
         </svg>
       </div>
+
+      <div class="formContact">
+        <h3>Dite nous sur quel parcours aimeriez-vous suivre la formation.</h3>
+        <h5 class="error-msg"></h5>
+        <form id="myForm">
+            <!-- name -->
+            <div class="form-group">
+              <label for="name">Votre Nom</label>
+              <input
+                type="name"
+                name="name"
+                class="form-control"
+                id="name"
+                placeholder="entrez votre name"
+              />
+            </div>
+
+            <!-- email -->
+            <div class="form-group">
+              <label for="email">Votre Email </label>
+              <input
+                type="email"
+                name="email"
+                class="form-control"
+                id="email"
+                placeholder="entrez votre email"
+              />
+            </div>
+
+            <!-- subject -->
+            <div class="form-group">
+              <label for="subject">Le parcours de votre choix</label>
+              <input
+                type="text"
+                name="subject"
+                class="form-control"
+                id="subject"
+                placeholder="entrez le parcours de votre futur metier"
+              />
+            </div>
+
+            <div class="form-group">
+              <label for="message">Message</label>
+              <textarea class="form-control" id="message" name="message" rows="5" placeholder="Laissez nous vos coordonnées et nous vous contacterons"></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
+    </div>
     </section>
 
 
@@ -304,8 +381,8 @@
           <ul class="footer-list">
             <li><a href="javascript:void(0);">L'entreprise</a></li>
             <li><a href="javascript:void(0);">Alternance</a></li>
-            <li><a href="javascript:void(0);">Blog</a></li>
-            <li><a href="javascript:void(0);">Presse</a></li>
+<!--             <li><a href="javascript:void(0);">Blog</a></li>
+            <li><a href="javascript:void(0);">Presse</a></li> -->
           </ul>
         </div>
         <div class="expanded-container">
@@ -322,9 +399,9 @@
             <li>
               <a href="javascript:void(0);">Espace étudiants</a>
             </li>
-            <li>
+<!--             <li>
               <a href="javascript:void(0);">Accessibilité</a>
-            </li>
+            </li> -->
           </ul>
         </div>
         <div class="expanded-container">
@@ -338,12 +415,12 @@
             </button>
           </span>
           <ul class="footer-list">
-            <li><a href="javascript:void(0);">Mention légales</a></li>
+<!--             <li><a href="javascript:void(0);">Mention légales</a></li>
             <li><a href="javascript:void(0);">Conditions générales d'utilisation</a></li>
             <li><a href="javascript:void(0);">Politique de protection des données</a></li>
             <li><a href="javascript:void(0);">Cookies</a></li>
-            <li><a href="javascript:void(0);">Aide & FAQ</a></li>
-            <li><a href="javascript:void(0);">Nous contacter</a></li>
+            <li><a href="javascript:void(0);">Aide & FAQ</a></li> -->
+            <li><a href="#myForm">Nous contacter</a></li>
           </ul>
         </div>
         <div>
@@ -531,7 +608,7 @@
     </nav>
   </div>
 
-  <script type="application/ld+json">
+<!--   <script type="application/ld+json">
     {
       "@context": "http://schema.org",
       "@type": "LocalBusiness",
@@ -556,8 +633,50 @@
       "closes": "18:00"
   }
     }
+  </script> -->
+
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+  </script>
+  <script type="text/javascript">
+      (function () {
+          emailjs.init("9vm4t5UUKnD--qr0z");
+      })();
   </script>
 
+<script>
+  // listen to the form submission
+  const sub = document.querySelector("#subject").value
+    const name = document.getElementById("name").value
+    const email = document.getElementById("email").value
+    const msg = document.getElementById("message").value
+    const error = document.querySelector(".error-msg")
+  document
+    .getElementById("myForm")
+    .addEventListener("submit", function (event) {
+      event.preventDefault();
+
+      const serviceID = "service_1yic4fc";
+      const templateID = "template_9qyxtlc";
+      if(sub !="" && name !="" && email != "" && msg !=""){
+            error.innerHTML = ""
+            emailjs.sendForm(serviceID, templateID, this).then(
+        (response) => {
+          console.log("SUCCESS!", response.status, response.text);
+          alert("SUCCESS!");
+        },
+        (error) => {
+          console.log("FAILED...", error);
+          alert("FAILED...", error);
+        }
+      );
+      }else{
+            error.innerHTML = "Remplissez tous les champs !!!"
+            error.style.color = "red"
+        }
+      // send the email here
+      
+    });
+</script>
 
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"

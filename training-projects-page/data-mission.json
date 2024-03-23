@@ -36,7 +36,8 @@
             "Gérer un projet web de A à Z : de la planification du projet à la présentation de la solution au client, en passant par la rédaction des spécifications techniques."
         ],
         "work":"vous pourrez exercer de nombreux métiers dont celui de développeur web, de développeur front-end, ou de développeur back-end",
-        "title":"Développeur Web"
+        "title":"Développeur Web",
+        "language":"HTML, CSS, JavaScript, React, Git/GitHub, NodeJS, Express, MongoDB, MySql les API REST"
     },
 
     {
@@ -177,9 +178,16 @@
 
     {
         "id":"983uywt563",
-        "description":[],
-        "work":"",
-        "title":""
+        "description":[
+            "Réaliser des études de marché et un audit marketing pour enrichir la stratégie marketing.",
+            "Définir et piloter un plan d’action marketing (SEO, online acquisition, RP, etc.) pour atteindre les objectifs de l’entreprise.",
+            "Définir et implémenter une stratégie éditoriale et de contenu pour accroître la cohérence et la différenciation de la marque. ",
+            "Animer une communauté sur les réseaux sociaux,  gérer une crise pour augmenter la notoriété et la préférence de marque.",
+            "Piloter des projets de marketing digital complexes pour fédérer les équipes, prioriser les tâches et faire avancer vos missions.",
+            "Élaborer une stratégie web marketing : mettre en place une stratégie de contenu et SEO et piloter une campagne web."
+        ],
+        "work":"vous pourrez exercer de nombreux métiers dont celui de chef de projet marketing, mais également ceux de responsable marketing digital, responsable marketing opérationnel, responsable communication, online acquisition manager, account manager, community manager.",
+        "title":"Marketing Digital"
     },
 
     {

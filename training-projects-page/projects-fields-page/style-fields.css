@@ -110,6 +110,30 @@
     text-align: center;
 }
 
+.bloc-opportunite-mission .language{
+    background-color: #f2c40a;
+    font-weight: 700;
+}
+
+.formContact{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 85%;
+    /* margin: 0; */
+    background-color: floralwhite;
+    margin-left: 7%;
+    padding: 7px;
+}
+
+#myForm{
+    width: 47%;
+}
+
+.form-group{
+    font-weight: 900;
+}
 
 @media screen and (max-width:767px) {
 
@@ -138,5 +162,18 @@
 
     .senddata{
         margin-left: 27%;
+    }
+
+    .formContact{
+        padding: 7px;
+
+    }
+
+    #myForm{
+        width: 85%; margin-left: 0%;
+    }
+
+    #myForm button{
+        margin-left: 0%;
     }
 }

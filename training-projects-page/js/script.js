@@ -1,15 +1,23 @@
 export const affiche = async (e) => {
-  //recuperer les données avec fetch d'une maniere dynamique via api
   const list = await fetch("./data.json", {
     method: "GET",
     headers: {
       "content-type": "application/json",
     }
   })
-    //recuperer la reponse au format JSON
     .then((res) => res.json());
   return list;
-  // console.log(list);
+}
+
+export const afficheUser = async (e) => {
+  const list = await fetch("./data-students.json", {
+    method: "GET",
+    headers: {
+      "content-type": "application/json",
+    }
+  })
+    .then((res) => res.json());
+  return list;
 }
 
 let thm = ""
@@ -40,7 +48,6 @@ fetch("./data.json")
     }
     document.getElementById("herbe").insertAdjacentHTML("beforeend", thm);
     let pelt = document.querySelectorAll(".cardHebergementMarseille")
-    //url = document.location.href()
     
     for (let ety of pelt) {
       ety.addEventListener("click", () => {
@@ -48,8 +55,6 @@ fetch("./data.json")
         const att = elt.getAttribute('data-id');
         console.log(att)
         let tableau=[]
-        /* tableau.push({id : att});
-        localStorage.setItem("data", JSON.stringify(tableau)); */
       })
     }
   })
@@ -103,6 +108,31 @@ const func = async () => {
   }
 }
 func()
+
+const annonc = document.querySelector(".bloc-anonce p")
+const image = document.querySelector(".student-image")
+const namestuden = document.querySelector(".student-name")
+const pnamestudent = document.querySelector(".student-pname")
+const dot = document.querySelectorAll(".dot")
+dot.forEach(element => {
+  element.addEventListener("click", ()=>{
+    const elt = element.closest("div")
+    const dpro = elt.getAttribute("data-name")
+    displayAnonc(dpro)
+  })
+})
+
+const displayAnonc = async (positions) =>{
+  const data = await afficheUser()
+  console.log(data)
+  const dataa = data.filter(e=>e.position === positions)
+  annonc.innerHTML = dataa[0].description
+  image.src = dataa[0].image
+  namestuden.innerHTML =  dataa[0].name
+  pnamestudent.innerHTML = dataa[0].pname
+  console.log(pnamestudent)
+}
+
 
 
 

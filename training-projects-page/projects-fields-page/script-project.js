@@ -89,6 +89,18 @@ const display = async () => {
     if (elt[0].titre === "Développeur Full Stack") {
         p_titre.innerHTML = "Devenez un expert en programmation full-stack avec Java et Angular en conception et qualité logicielle."
     }
+    
+    if (elt[0].titre === "Marketing Digital") {
+        p_titre.innerHTML = "Garantissez la cohérence de marque et l'application de la stratégie marketing de votre entreprise."
+    }
+
+    if (elt[0].titre === "Responsable en sécurité des systèmes d'information") {
+        p_titre.innerHTML = "Mettez en œuvre une stratégie de cybersécurité dans votre entreprise et déployez-la en continu."
+    }
+
+    if (elt[0].titre === "Administrateur des systèmes et réseaux informatique") {
+        p_titre.innerHTML = "Concevez et gérez les réseaux et systèmes d’information des entreprises, ainsi que leur sécurité."
+    }
 
     if (elt[0].titre === "Développeur WordPress") {
         p_titre.innerHTML = "Découvrez le monde du développement web en apprenant à créer des sites WordPress !"
@@ -126,7 +138,15 @@ const display = async () => {
 
     const ulelet = document.querySelector(".bloc-items-mission")
     const elp = document.querySelector(".bloc-items-oppotu")
+    const lan = document.querySelector(".languages")
     elp.innerHTML = eltmision[0].work
+    if(eltmision[0].title === "Marketing Digital" || eltmision[0].title === "Bureautique" || eltmision[0].title === "Responsable en sécurité des systèmes d'information"){
+        const divv = document.querySelector(".language")
+        divv.style.display = "none"
+    }else{
+        lan.innerHTML = eltmision[0].language
+    }
+    
 
     for (let k = 0; k < eltmision[0].description.length; k++) {
         const elt_li = document.createElement("li")
@@ -215,5 +235,8 @@ document.querySelector(".senddata").addEventListener("click", (e)=>{
     document.getElementById("LastName").innerHTML = ""
     document.getElementById("FirstName").innerHTML = ""
     localStorage.clear()
-})
+}) 
+
+
+
 
