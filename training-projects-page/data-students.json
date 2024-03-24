@@ -2,7 +2,7 @@
     {
         "id":1,
         "name":"Elisabete",
-        "pname":"Leatitia",
+        "pname":"Costa",
         "position":"student-1",
         "image":"./img/capture-el.png",
         "description":" Cette formation a été un tournant dans ma carriere. Atlas Institute, m'a fait sortir de ma zone de confor, m'a donné confiance pour me lancer dans un monde nouveau qui est celui du développement d'application, je n'aurai jamis imaginé!"
@@ -14,8 +14,9 @@
         "name":"Hassane",
         "pname":"Hassane",
         "position":"student-2",
-        "image":"./img/default-avatar.png",
-        "description":"Cette formation m'a donné confiance en moi et en mes capacités d'apprendre vite. Grâce aux mises en situation professionnelles et aux projets réalisé durant ma formation, j'ai pu acquerir des compétences clés pour mon futur métier."
+        "image":"./img/Hassane-picture.jpg",
+        "description":"Je tiens à vous adresser mes plus sincères remerciements pour m'avoir offert l'opportunité de participer à la formation en développement web et mobile dispensée par votre équipe. Cette expérience a été véritablement enrichissante et stimulante. La qualité des cours dispensés, la compétence des formateurs et la pertinence des contenus ont largement dépassé mes attentes.Je suis désormais mieux équipé pour relever les défis du développement web et mobile et pour contribuer de manière plus significative aux projets dans une entreprise."
+        
         
     },
 
