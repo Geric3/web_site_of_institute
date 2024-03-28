@@ -661,6 +661,7 @@ footer {
 
   .engagement-section .bloc-students .bloc-student-title{
     width: 94%;
+    margin-top: -22%;
   }
 
   .bloc-students .image-student{
@@ -668,11 +669,14 @@ footer {
   }
 
   .bloc-students .student-image{
-    margin-left: 6%;
+    /* height: 252px; */
+    width: 80%;
+    display: flex;
+    margin: -7% 0 0 0%;
   }
 
   .student-name-dots{
-    top: 60%;
+    top: 57%;
     left: 29%;
   }
   .student-pname{
@@ -680,7 +684,7 @@ footer {
   }
 
   .dots{
-    top: 67%;
+    top: 66.2%;
     left: 43%;
   }
 

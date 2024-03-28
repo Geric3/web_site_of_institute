@@ -276,4 +276,10 @@ header .navbar {
     body{
         width: auto;
     }
+
+    .engagement-section-sub-container .bloc-type-twins .bloc-type-twins-first img{
+        height: 252px;
+    display: flex;
+    margin: -7% 0 0 20%;
+    }
 }
