@@ -274,6 +274,6 @@ header .navbar {
 
 @media (max-width:767px){
     body{
-        width: 483px;
+        width: auto;
     }
 }

@@ -392,7 +392,9 @@
         "description":[],
         "diplome":"Parchemin délivré : DQP",
         "time":"Durée : 9 mois + 3 mois de stage",
-        "duree":[]
+        "duree":[
+            "70 heures supervisées"
+        ]
     },
 
     {
