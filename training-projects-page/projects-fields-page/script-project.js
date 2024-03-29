@@ -106,6 +106,14 @@ const display = async () => {
         p_titre.innerHTML = "Découvrez le monde du développement web en apprenant à créer des sites WordPress !"
     }
 
+    if (elt[0].titre === "Community Manager") {
+        p_titre.innerHTML = "Gérez la présence des marques pour lesquelles vous travaillez sur les réseaux sociaux !"
+    }
+
+    if (elt[0].titre === "Analyste Cybersécurité") {
+        p_titre.innerHTML = "Détectez les incidents de cybersécurité et agissez pour la protection de votre entreprise"
+    }
+
     for (let p = 0; p < elt[0].projects.length; p++) {
         projectField += `
         <a href="#" class="bloc-projects-field" data-name="Projet ${p + 1}">
@@ -126,7 +134,6 @@ const display = async () => {
                                 <p> ${elt[0].projects[p]}
                                 </p>
                                 
-
                             </div>
 
                         </div>

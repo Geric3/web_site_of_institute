@@ -386,14 +386,33 @@
     {
         "id":"ancisamrt23754",
         "category":"Cybersécurité",
-        "projects":[],
+        "projects":[
+            "Découvrez l'écosystème de détection et de traitement des incidents et les bonnes pratiques de cybersécurité",
+            "Collectez, analysez vos premiers logs et classez les alertes",
+            "Rédigez vos premiers scripts en Python",
+            "Contenez vos premiers incidents",
+            "Enquêtez sur vos premiers incidents de cybersécurité",
+            "Constituez votre portfolio et démontrez vos compétences d’Analyste Cybersécurité SOC"
+        ],
         "titre":"Analyste Cybersécurité",
         "cover":"./img/img-analyst-ciber.png",
-        "description":[],
+        "description":[
+            "Intégrez le SOC d’une grande entreprise. Immergez-vous en conditions réelles en découvrant les outils, les processus et l’organisation de la défense opérationnelle et rédigez vos premiers éléments de documentation interne.",
+            "Collectez et analysez les logs d’un organisme de formation en ligne afin de classer ses alertes de cybersécurité.",
+            "Un hébergeur de sites Web supervisant ses IP publiques souhaite automatiser la neutralisation des fichiers compromis. Automatisez le nettoyage des fichiers compromis avec Python.",
+            "À partir d'éléments observables collectés, vous identifierez les actions possibles d'endiguement de l'incident sur le système d’information d’une banque internationale.",
+            " Réalisez des analyses approfondies de l'incident de cybersécurité d’un industriel de l’agro-alimentaire.",
+            "Valorisez l'acquisition de vos compétences d'Analyste en Cybersécurité et constituez votre portfolio ou réalisez une expérience de terrain."
+        ],
         "diplome":"Parchemin délivré : DQP",
         "time":"Durée : 9 mois + 3 mois de stage",
         "duree":[
-            "70 heures supervisées"
+            "50 heures supervisées",
+            "50 heures supervisées",
+            "50 heures supervisées",
+            "50 heures supervisées",
+            "70 heures supervisées",
+            "400 heures supervisées"
         ]
     },
 
@@ -553,6 +572,42 @@
             "60 heures supervisées",
             "50 heures supervisées",
             "70 heures supervisées"
+        ]
+    },
+
+    {
+        "id":"comusmart21y3483",
+        "category":"Marketing  et Communication",
+        "projects":[
+            " Créez du contenu institutionnel et grand public pour développer une communauté",
+            "Déclinez la présence d'une marque de chocolat sur ses réseaux sociaux",
+            " Élaborez la campagne publicitaire d'une marque de pizzas",
+            "Gérez une situation de crise sur les réseaux sociaux d'une collectivité ",
+            "Organisez un événement communautaire pour un magazine en ligne",
+            "Mettez en place un système de veille sur les réseaux sociaux ",
+            "Gérez la communication d'influence d'une entreprise de sport de glisse"
+        ],
+        "titre":"Community Manager",
+        "cover":"./img/img-comunity.png",
+        "description":[
+            "Vous travaillez en tant que Community Manager dans une entreprise d'IA qui propose la création de jeux en ligne. Vous allez gérer la communication sur les réseaux sociaux, en réalisant un calendrier de publication et en créant du contenu.",
+            "Vous êtes freelance en community management pour une marque de chocolat. Votre mission, construire les chartes de la marque pour l'aider dans sa croissance !",
+            " Vous travaillez pour une agence digitale qui doit répondre à un appel d’offres pour créer la stratégie publicitaire d’une marque de pizzas. Préparez-vous à conception de stratégie !",
+            "Vous faites face à une polémique suite à l’organisation d’un concours par une collectivité territoriale. Les réseaux sociaux s’emballent… Vous allez devoir gérer cette situation de crise, aussi appelée “bad buzz”... dans la sérénité !",
+            "Organisez de A à Z l’interview d’une personnalité en live sur les réseaux sociaux d'un magazine en ligne : préparation, stratégie social media, animation… La gestion d’un événement live n’aura plus de secret pour vous !",
+            "Restez à jour des évolutions et innovations dans le domaine des réseaux sociaux. Développez vos compétences de recherche et d'analyse !",
+            "Élaborez la stratégie d’influence d’une marque de sport de glisse pour créer de la notoriété ! Le monde des influenceurs s’ouvre à vous."
+        ],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 9 mois + 6 mois de stage",
+        "duree":[
+            "80 heures supervisées",
+            "60 heures supervisées",
+            "100 heures supervisées",
+            "100 heures supervisées",
+            "100 heures supervisées",
+            "60 heures supervisées",
+            "110 heures supervisées"
         ]
     }
 ]
