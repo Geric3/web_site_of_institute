@@ -209,8 +209,16 @@
 
     {
         "id":"go7ste538sd",
-        "description":[],
-        "work":"",
-        "title":""
+        "description":[
+            "Construire un site web responsive et dynamique s’adaptant à tout type d’écran grâce à l’intégration des éléments des maquettes graphiques (développement front-end avec HTML, CSS, JavaScript et React)",
+            "Créer des API et des bases de données pour développer des sites complets et dynamiques et assurer le bon fonctionnement côté serveur (développement back-end avec NodeJS, Express et MongoDB). ",
+            "Optimiser les performances et réaliser la maintenance de sites web déjà existants pour permettre leur fonctionnement optimal et une bonne visibilité sur les moteurs de recherche (SEO).",
+            "Gérer un projet web de A à Z : de la planification du projet à la présentation de la solution au client, en passant par la rédaction des spécifications techniques.",
+            "Concevoir et développer des applications mobiles Android robustes en utilisant les langages Kotlin et Java ",
+            "Développer des interfaces utilisateur interactives et accessibles grâce aux frameworks XML et Jetpack Compose "
+        ],
+        "work":"vous pourrez exercer de nombreux métiers dont celui de développeur web, de développeur front-end,de développeur back-end, de développeur d’application Android, développeur mobile",
+        "title":"Développeur web et mobile",
+        "language":"HTML, CSS, JavaScript, React, Git/GitHub, NodeJS, Express, MongoDB, MySql les API REST, Kotlin, Java, Android Studio, Git, XML, Firebase"
     }
 ]

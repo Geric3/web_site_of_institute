@@ -609,5 +609,53 @@
             "60 heures supervisées",
             "110 heures supervisées"
         ]
+    },
+
+    {
+        "id":"dewmobi32876smar89",
+        "category":"Développement",
+        "projects":[
+            "Créez la page d'accueil d'une agence de voyage de la place avec HTML & CSS",
+            "Dynamisez une page web avec des animations CSS",
+            "Créez une page web dynamique avec JavaScript",
+            "Créez une application web de location immobilière avec React",
+            "Développez le back-end d'un site de notation de livres",
+            "Découvrez le développement mobile Android",
+            "Développez votre première application Android en Java",
+            "Implémentez l'accès à des données externes pour une application en Kotlin",
+            "Concevez une base de données pour une application Android",
+            "Créez une application Android en MVVM de A à Z",
+            "Implémentez une base de données avec Firebase"
+        ],
+        "titre":"Développeur web et mobile",
+        "cover":"./img/img-dewmobil.png",
+        "description":[
+            "Démarrez sur HTML et CSS en intégrant la page Web de Booki, une plateforme de réservation de vacances.",
+            "Implémentez la version mobile d'un site de restaurant avec des animations CSS.",
+            "Aidez votre équipe à finaliser le nouveau site internet d’une architecte grâce à la création d’un site dynamique avec JavaScript, communiquant avec une API.",
+            "Implémentez le front end de Kasa, une application de location de logements. Mettez en place des composants avec React et les routes de l'application avec React Router.",
+            "Créez le back-end d’un site de notation de livres pour qu’il s’intègre correctement avec le front-end. Vous utilisez Node.js, Express et MongoDB.",
+            "Faites vos premiers pas dans le développement Android avec XML et Java.",
+            "Approfondissez vos compétences Java et découvrez les bonnes pratiques de programmation (POO et MVVM) pour créer une interface dynamique.",
+            "Plongez dans Kotlin, le langage de programmation Android le plus recherché sur le marché et gérez l’accès aux données.",
+            "Modélisez la solution technique en utilisant UML.",
+            "Validez la maîtrise des compétences fondamentales au développement Android en développant une application complète.",
+            "Mettez en place une base de données sécurisée en utilisant Firebase."
+        ],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 9 mois + 3 mois de stage",
+        "duree":[
+            "80 heures supervisées",
+            "90 heures supervisées",
+            "70 heures supervisées",
+            "70 heures supervisées",
+            "70 heures supervisées",
+            "50 heures supervisées",
+            "90 heures supervisées",
+            "80 heures supervisées",
+            "30 heures supervisées",
+            "85 heures supervisées",
+            "60 heures supervisées"
+        ]
     }
 ]

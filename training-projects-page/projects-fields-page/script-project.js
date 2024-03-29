@@ -109,9 +109,13 @@ const display = async () => {
     if (elt[0].titre === "Community Manager") {
         p_titre.innerHTML = "Gérez la présence des marques pour lesquelles vous travaillez sur les réseaux sociaux !"
     }
-
+    
     if (elt[0].titre === "Analyste Cybersécurité") {
         p_titre.innerHTML = "Détectez les incidents de cybersécurité et agissez pour la protection de votre entreprise"
+    }
+
+    if (elt[0].titre === "Développeur web et mobile") {
+        p_titre.innerHTML = "Découvrez le monde du développement web en apprenant à créer des sites avec React, des applications Android robustes et accessibles avec les langages de programmation Kotlin et Java."
     }
 
     for (let p = 0; p < elt[0].projects.length; p++) {
