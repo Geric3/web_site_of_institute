@@ -19,7 +19,7 @@
 .content-modal1 {
     position: fixed;
     top: 24%;
-    left: 17%;
+    left: 11%;
     z-index: 5;
     width: 60%;
     height: 50%;
@@ -110,12 +110,12 @@
     text-align: center;
 }
 
-.bloc-opportunite-mission .language{
+.bloc-opportunite-mission .language {
     background-color: #f2c40a;
     font-weight: 700;
 }
 
-.formContact{
+.formContact {
     justify-content: center;
     display: flex;
     flex-direction: column;
@@ -127,11 +127,11 @@
     padding: 7px;
 }
 
-#myForm{
+#myForm {
     width: 47%;
 }
 
-.form-group{
+.form-group {
     font-weight: 900;
 }
 
@@ -147,33 +147,34 @@
     }
 
     .content-modal1 {
-        width: 70%;
-        height: 60%;
+        width: 80%;
+        height: 75%;
     }
 
     .account {
-        margin-left: 27%;
-        margin-bottom: -22%;
+        margin-left: 25%;
+        margin-bottom: 1%;
     }
 
     .content-modal1 .pack-button {
         margin-left: -1%;
     }
 
-    .senddata{
+    .senddata {
         margin-left: 27%;
     }
 
-    .formContact{
+    .formContact {
         padding: 7px;
 
     }
 
-    #myForm{
-        width: 85%; margin-left: 0%;
+    #myForm {
+        width: 85%;
+        margin-left: 0%;
     }
 
-    #myForm button{
+    #myForm button {
         margin-left: 0%;
     }
 }
