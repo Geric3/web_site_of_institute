@@ -25,10 +25,34 @@ h2 {
   font-weight: 500;
 }
 
+.bloc-title{
+  display: flex;
+}
+
+.bloc-title .bloc-image-title{
+  width: 42%;
+    height: 327px;
+    object-fit: cover;
+}
+
 .title {
   background-color: #f2f2f2;
   height: auto;
   margin-top: -18px;
+}
+
+.title-bg{
+  background-color: #e8d7be;
+  margin-top: 0px;
+}
+
+.bg-boost{
+  background-color: #63c1d9;
+}
+
+.dicover{
+  color: #0065fc;
+  font-weight: 700;
 }
 
 .filterSections {
@@ -588,9 +612,18 @@ footer {
     margin-left: -20px;
   }
 
+  .bloc-title {
+    display: flex;
+    flex-direction: column;
+}
+
   .title{
     height: auto;
   }
+
+  .bloc-title .bloc-image-title {
+    width: 100%;
+}
 
   #destination {
     font-size: 18px;
@@ -664,6 +697,11 @@ footer {
     margin-top: -22%;
   }
 
+  .bloc-students {
+    
+    height: 813px;
+}
+
   .bloc-students .image-student{
     margin-bottom: 8%;
   }
@@ -676,7 +714,7 @@ footer {
   }
 
   .student-name-dots{
-    top: 57%;
+    top: 54%;
     left: 29%;
   }
   .student-pname{
