@@ -58,52 +58,6 @@ export const affiche = async (e) => {
       console.log(err);
     })
   
-  /* const displayCategory = (category) => {
-    let categories = ""
-    for (let ca of category) {
-      categories += `
-      <a href="./projects-fields-page/index.html?id=${ca.id}" data-name="${ca.category}" data-id="${ca.id}">
-                <div class="cardHebergementMarseille">
-                  <img
-                    class="cardImageHebergementMarseille"
-                    src="${ca.cover}"
-                    alt="hebergementPicture"
-                  />
-  
-                  <div class="cardBodyHebergementMarseille">
-                    <h4>${ca.titre}</h4>
-                    <p>${ca.diplome}</p>
-  
-                    <div class="cardNote">
-                      <p>${ca.time}</p>
-                    </div>
-                  </div>
-                </div>
-              </a>`
-    }
-    document.getElementById("herbe").innerHTML = ""
-    document.getElementById("herbe").insertAdjacentHTML("beforeend", categories);
-  } */
-  
-  /* const elt = document.getElementsByClassName("item");
-  const func = async () => {
-    const data = await affiche();
-    for (let i = 0; i < elt.length; i++) {
-      const indi = elt[i];
-      elt[i].addEventListener("click", () => {
-        console.log(elt[i])
-        const objet = data.filter(compteur => compteur.category === indi.dataset.name);
-        console.log(objet.length)
-        if (objet.length != 0) {
-          return displayCategory(objet)
-        } else {
-          document.getElementById("herbe").innerHTML = "<h2>Ce parcours est en construction</h2>"
-        }
-  
-      })
-    }
-  }
-  func() */
   
   const annonc = document.querySelector(".bloc-anonce p")
   const image = document.querySelector(".student-image")
