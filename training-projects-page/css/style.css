@@ -282,6 +282,11 @@ h2 {
   background-color: white;
 }
 
+.borderr{
+  border-bottom: 4px solid #4bb1c3f0;
+  background-color: #f0f8f0;
+}
+
 .cardHebergementMarseille:hover {
   box-shadow: 0 9px 20px rgba(0, 0, 0, 0.3);
   color: #0065fc;
@@ -308,6 +313,10 @@ h2 {
 .cardBodyHebergementMarseille p {
   margin: 0 0 5px 0;
   font-size: 13px;
+}
+
+.size-item p{
+  font-size: 16px;
 }
 
 .cardNote {

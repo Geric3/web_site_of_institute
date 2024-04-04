@@ -1,0 +1,71 @@
+[
+    {
+        "id":"se32smart48",
+        "title":"Initiation Excel et Word",
+        "dure":"6 semaines",
+        "diplome":"une certification"
+    },
+
+    {
+        "id":"agilr32samrt438h",
+        "title":"Gestion de projet agile",
+        "dure":"6 semaines",
+        "diplome":"une certification"
+    },
+
+    {
+        "id":"react34smart48h",
+        "title":"Apprenez le framework React Js",
+        "dure":"9 semaines",
+        "diplome":"une certification"
+    },
+
+    {
+        "id":"next8hdsmart7",
+        "title":"Apprenez le framework Next Js",
+        "dure":"9 semaines",
+        "diplome":"une certification"
+    },
+
+    {
+        "id":"django439smart74hd",
+        "title":"Apprenez le framework Django",
+        "dure":"9 semaines",
+        "diplome":"une certification"
+    },
+
+    {
+        "id":"server47atlas997sc",
+        "title":"Concevoir un seveur avec JavaScript",
+        "dure":"9 semaines",
+        "diplome":"une certification"
+    },
+
+    {
+        "id":"redux123smart35a",
+        "title":"Utilisation de la bibliothèque Redux",
+        "dure":"6 semaines",
+        "diplome":"une certification"
+    },
+
+    {
+        "id":"apitpy239smart09j",
+        "title":"Concevoir une API Restful en Python",
+        "dure":"9 semaines",
+        "diplome":"une certification"
+    },
+
+    {
+        "id":"apirest328SCA",
+        "title":"Concevoir une API REST en JavaScript",
+        "dure":"9 semaines",
+        "diplome":"une certification"
+    },
+
+    {
+        "id":"outil8073smart21d",
+        "title":"Outil de gestion de version Git/Github",
+        "dure":"6 semaines",
+        "diplome":"une certification"
+    }
+]

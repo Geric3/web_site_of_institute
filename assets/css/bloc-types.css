@@ -15,6 +15,15 @@ Example:homepage first bloc
     margin-right: 2rem;
 }
 
+.engagement-section-sub-container .certif{
+    width: 96%;
+}
+
+.engagement-section-sub-container .certif .bloc-type-twins-first>img{
+    width: 68%;
+    box-shadow: 0 0 20px #0000002e;
+}
+
 .bloc-type-twins>.bloc-type-twins-second {
     max-width: 600px;
 }
