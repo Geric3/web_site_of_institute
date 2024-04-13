@@ -95,7 +95,7 @@ const display = async () => {
     }
 
     if (elt[0].titre === "Responsable en sécurité des systèmes d'information") {
-        p_titre.innerHTML = "Mettez en œuvre une stratégie de cybersécurité dans votre entreprise et déployez-la en continu."
+        p_titre.innerHTML = "Apprenez à mettre en œuvre une stratégie de cybersécurité dans votre entreprise et déployez-la en continu."
     }
 
     if (elt[0].titre === "Administrateur des systèmes et réseaux informatique") {
@@ -111,7 +111,7 @@ const display = async () => {
     }
     
     if (elt[0].titre === "Analyste Cybersécurité") {
-        p_titre.innerHTML = "Détectez les incidents de cybersécurité et agissez pour la protection de votre entreprise"
+        p_titre.innerHTML = "Apprenez à détecter les incidents de cybersécurité,à protéger, à défendre une entreprise et à acquérir des compétences professionnelles en Analyste Cybersécurité. "
     }
 
     if (elt[0].titre === "Développeur web et mobile") {

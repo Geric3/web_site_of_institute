@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
     var spinner = document.querySelector("#spinner");
     spinner.style.opacity = 1;
     (function fade() {
-        if ((spinner.style.opacity -= 0.1) < 0) {
+        if ((spinner.style.opacity -= 0.1) > 0) {
             spinner.parentNode.removeChild(spinner);
         } else {
             requestAnimationFrame(fade);
