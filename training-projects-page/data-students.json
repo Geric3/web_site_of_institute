@@ -1,10 +1,10 @@
 [
     {
         "id":1,
-        "name":"Tchinda",
-        "pname":"Laeticia",
+        "name":"Costa",
+        "pname":"Elisabete",
         "position":"student-1",
-        "image":"./img/default-avatar.png",
+        "image":"./img/beta.jpg",
         "description":" Cette formation a été un tournant dans ma carriere. Atlas Institute, m'a fait sortir de ma zone de confor, m'a donné confiance pour me lancer dans un monde nouveau qui est celui du développement d'application, je n'aurai jamis imaginé!"
         
     },
