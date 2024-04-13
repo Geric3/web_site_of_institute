@@ -404,12 +404,13 @@ h2 {
 }
 .bloc-students .student-image{
   border-radius: 50%;
+  height: 238px;
 }
 .student-name-dots {
 	position: absolute;
 	display: flex;
-  top: 63%;
-  left: 13%;
+  top: 62.5%;
+  left: 9%;
 }
 .student-name{
   margin-inline: 5px;
@@ -717,13 +718,14 @@ footer {
 
   .bloc-students .student-image{
     /* height: 252px; */
+    height: 238px;
     width: 80%;
     display: flex;
     margin: -7% 0 0 0%;
   }
 
   .student-name-dots{
-    top: 54%;
+    top: 55%;
     left: 29%;
   }
   .student-pname{
