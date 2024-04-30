@@ -146,6 +146,10 @@
         width: 100%;
     }
 
+    .bloc-opportunite-mission .engagement-section-sub-container .engagement-bloc .bloc-opportunity{
+        height: 221px;
+    }
+
     .content-modal1 {
         width: 80%;
         height: 75%;

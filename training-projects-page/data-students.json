@@ -22,12 +22,25 @@
 
     {
         "id":3,
+        "name":"Tchinda",
+        "pname":"Laeticia",
+        "position":"student-3",
+        "image":"./img/laeticia.jpeg",
+        "description":"Mon expérience à SCA a été la plus enrichissante de mon parcours. Les nouvelles compétences acquises dans le domaine de développement web et mobile ont été décisives dans la suite de ma carrière de développeuse. J’ai eu le privilège d’être coaché par des professeurs incroyablement compétents. La formation SCA est axée sur la pratique et c’est quelque chose que j’ai énormément apprécié. Je dirais même que c’est la formation idéale pour se lancer.",
+        "desc":"Mon expérience à SCA a été la plus enrichissante de mon parcours. Les nouvelles compétences acquises dans le domaine de développement web et mobile ont été décisives dans la suite de ma carrière de développeuse. J’ai eu le privilège d’être coaché par des professeurs incroyablement compétents. La formation SCA est axée sur la pratique et c’est quelque chose que j’ai énormément apprécié. Je dirais même que c’est la formation idéale pour se lancer."
+       
+    },
+
+    {
+        "id":4,
         "name":"Madjou",
         "pname":"Audrey",
-        "position":"student-3",
+        "position":"student-4",
         "image":"./img/default-avatar.png",
         "description":"Effectuer une formation accélérée en Python, chez SMART CODE ATLAS, a été pour moi, une expérience enrichissante et gratifiante. Je peux tous les jours approfondir réellement mes connaissances en programmation et acquerir une expérience pratique précieuse dans le domaine, tout ceci dans un cadre idéal et propice à l'apprentissage.",
         "desc":"Cette formation m'a donné confiance en moi et en mes capacités d'apprendre et à m'adapter à toute situation. Grâce aux mises en situation professionnelles, j'ai pu dédramatiser les presentations en entreprise."
        
     }
 ]
+
+

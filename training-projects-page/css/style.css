@@ -198,7 +198,7 @@ h2 {
 }
 
 .item p {
-  font-size: 18px;
+  font-size: 17px;
   font-weight: bold;
   margin: auto;
   margin-left: 10px;
@@ -725,7 +725,7 @@ footer {
   }
 
   .student-name-dots{
-    top: 55%;
+    top: 52%;
     left: 29%;
   }
   .student-pname{
@@ -733,7 +733,7 @@ footer {
   }
 
   .dots{
-    top: 66.2%;
+    top: 65%;
     left: 43%;
   }
 
