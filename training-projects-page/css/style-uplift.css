@@ -1,0 +1,122 @@
+.title-collopse{
+    margin-left: 5%;
+}
+.accordions-items{
+    margin: 0;
+    padding: 5px;
+}
+.collapse-descrip{
+    border: 1px solid #f2f2f2;
+    height: 56px;
+    background-color: #fbfaeb;
+    font-weight: 800;
+    border-top: 4px solid #0f49c28a;
+    box-shadow: 0 0 20px #0000002e;
+    margin-left: 5%;
+    width: 90%;
+}
+
+
+
+.link-items{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.link-items .active-ripple svg{
+    width: 68%;
+    height: 59px;
+}
+
+.accordions-items .collapse-descrip .link-items .img-width{
+    width: 2%;
+    height: 23px;
+    object-fit: cover;
+}
+
+.show-div{
+    max-height: 0;
+    overflow: hidden;
+}
+
+.show-div ul{
+    margin: 0;
+}
+
+#item{
+    width: 92.2%;
+    margin-left: 32px;
+}
+
+.descript{
+    margin-left: -86%;
+}
+
+.change{
+    margin-left: -76%;
+}
+
+.change2{
+    margin-left: -82%;
+}
+
+.displayt{
+    background-color: #fbfaeb;
+    width: 100%;
+    margin-left: -18px;
+    margin-top: -7px;
+    box-shadow: 0 0 0px #0000002e;
+}
+
+.show-items-descript span{
+    font-weight: 800;
+}
+
+.content-items{
+    font-weight: 500;
+    list-style-type: circle;
+}
+
+.accordions-items.active .show-div{
+    max-height: 200px;
+}
+
+.accordions-items.active .collapse-descrip .arrow-down-icon{
+    rotate: 180deg;
+}
+
+@media screen and (max-width:767px) {
+    .accordions-items .collapse-descrip .link-items .img-width {
+        width: 18%;
+        height: 40px;
+        object-fit: cover;
+        margin: 0;
+    }
+
+    .descript {
+        margin-left: -40%;
+    }
+
+    .change2 {
+        margin-left: -17%;
+    }
+
+    .change {
+        margin-left: 0;
+    }
+
+    .accordions-items.active .show-div {
+        max-height: 320px;
+    }
+
+    #item {
+        width: 98%;
+        margin-left: -12px;
+    }
+
+    .show-items-descript{
+        margin-top: 0%;
+    }
+    
+}

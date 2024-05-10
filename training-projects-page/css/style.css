@@ -25,14 +25,18 @@ h2 {
   font-weight: 500;
 }
 
-.bloc-title{
+.bloc-title {
   display: flex;
 }
 
-.bloc-title .bloc-image-title{
+.bloc-title .bloc-image-title {
   width: 42%;
-    height: 327px;
-    object-fit: cover;
+  height: 327px;
+  object-fit: cover;
+}
+
+.bloc-title .heigh {
+  height: 217px;
 }
 
 .title {
@@ -41,16 +45,20 @@ h2 {
   margin-top: -18px;
 }
 
-.title-bg{
+.title-bg {
   background-color: #e8d7be;
   margin-top: 0px;
 }
 
-.bg-boost{
+.bg-boost {
   background-color: #63c1d9;
 }
 
-.dicover{
+.bg-uplift {
+  background-color: rgb(255 255 255 / 15%);
+}
+
+.dicover {
   color: #0065fc;
   font-weight: 700;
 }
@@ -59,6 +67,11 @@ h2 {
   width: 93%;
   margin: auto;
   margin-bottom: 20px;
+}
+
+.filterSections .filterSection .paragraph{
+  font-weight: 600;
+  margin-top: -0.5rem;
 }
 
 /*Header*/
@@ -148,10 +161,21 @@ h2 {
   padding-top: 7px;
 }
 
+.position-items{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
 .filterTitle {
   font-size: 21px;
   font-weight: bold;
   padding-right: 25px;
+}
+
+.size-item{
+  font-size: 30px;
 }
 
 .filterItems {
@@ -282,7 +306,7 @@ h2 {
   background-color: white;
 }
 
-.borderr{
+.borderr {
   border-bottom: 4px solid #4bb1c3f0;
   background-color: #f0f8f0;
 }
@@ -315,7 +339,7 @@ h2 {
   font-size: 13px;
 }
 
-.size-item p{
+.size-item p {
   font-size: 16px;
 }
 
@@ -398,48 +422,53 @@ h2 {
 }
 
 /* Gestion des points du carrousel */
-.bloc-students{
+.bloc-students {
   background-color: blanchedalmond;
   padding: 10px;
 }
-.bloc-students .student-image{
+
+.bloc-students .student-image {
   border-radius: 50%;
   height: 238px;
 }
+
 .student-name-dots {
-	position: absolute;
-	display: flex;
+  position: absolute;
+  display: flex;
   top: 62.5%;
   left: 9%;
 }
-.student-name{
+
+.student-name {
   margin-inline: 5px;
-	height: 13px;
+  height: 13px;
 }
 
-.student-pname{
+.student-pname {
   margin-top: 2%;
   font-size: 19px;
   font-weight: 700;
 }
 
-.dots{
-	position: absolute;
-	/* bottom: 40px; */
-	display: flex;
+.dots {
+  position: absolute;
+  /* bottom: 40px; */
+  display: flex;
   top: 63%;
   left: 65%;
 }
+
 .dot {
-	margin-inline: 5px;
-	width: 13px;
-	height: 13px;
+  margin-inline: 5px;
+  width: 13px;
+  height: 13px;
   background-color: #373b3e;
   border: 3px solid #877979;
-	border-radius: 100%;
-	box-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+  border-radius: 100%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
   cursor: pointer;
 }
+
 /* Partie footer */
 
 footer {
@@ -504,7 +533,7 @@ footer {
     padding: 0px 20px 20px 20px;
   }
 
-  .title{
+  .title {
     height: auto;
   }
 
@@ -531,21 +560,22 @@ footer {
     width: 47%;
   }
 
-  .engagement-section .bloc-students .bloc-student-title{
+  .engagement-section .bloc-students .bloc-student-title {
     width: 100%;
   }
 
-  .bloc-students ,.student-image{
+  .bloc-students,
+  .student-image {
     margin-top: -5%;
   }
 
-  .bloc-anonce p{
+  .bloc-anonce p {
     margin-top: -57%;
     width: 44%;
     margin-left: 57%;
   }
 
-  .bloc-students .student-name-dots{
+  .bloc-students .student-name-dots {
     left: 22%;
   }
 
@@ -625,15 +655,19 @@ footer {
   .bloc-title {
     display: flex;
     flex-direction: column;
-}
+  }
 
-  .title{
+  .title {
     height: auto;
   }
 
   .bloc-title .bloc-image-title {
     width: 100%;
-}
+  }
+
+  .bloc-title .heigh {
+    height: 132px;
+  }
 
   #destination {
     font-size: 18px;
@@ -702,21 +736,21 @@ footer {
     margin-bottom: 0px;
   }
 
-  .engagement-section .bloc-students .bloc-student-title{
+  .engagement-section .bloc-students .bloc-student-title {
     width: 94%;
     margin-top: -22%;
   }
 
   .bloc-students {
-    
-    height: 813px;
-}
 
-  .bloc-students .image-student{
+    height: 813px;
+  }
+
+  .bloc-students .image-student {
     margin-bottom: 8%;
   }
 
-  .bloc-students .student-image{
+  .bloc-students .student-image {
     /* height: 252px; */
     height: 238px;
     width: 80%;
@@ -724,15 +758,16 @@ footer {
     margin: -7% 0 0 0%;
   }
 
-  .student-name-dots{
+  .student-name-dots {
     top: 52%;
     left: 29%;
   }
-  .student-pname{
+
+  .student-pname {
     margin-top: 0%;
   }
 
-  .dots{
+  .dots {
     top: 65%;
     left: 43%;
   }

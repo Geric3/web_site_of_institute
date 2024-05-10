@@ -1,0 +1,44 @@
+[
+    {
+        "id":"devSmartA89",
+        "title":"Développeur web et mobile",
+        "text":"Favorisez la productivité",
+        "more":"En savoir plus"
+    },
+
+    {
+        "id":"devpyAtlas287",
+        "title":"Développeur Python",
+        "text":"Favorisez la productivité",
+        "more":"En savoir plus"
+    },
+
+    {
+        "id":"devCodeAs73",
+        "title":"Développeur FrontEnd et BackEnd",
+        "text":"Favorisez la productivité",
+        "more":"En savoir plus"
+    },
+
+    {
+        "id":"secuAtlasC27",
+        "title":"Système et Réseau ",
+        "text":"Favorisez la productivité",
+        "more":"En savoir plus"
+    },
+
+    {
+        "id":"cybeAtlasC897",
+        "title":"Cybersécurité ",
+        "text":"Favorisez la productivité",
+        "more":"En savoir plus"
+    },
+
+    {
+        "id":"markSmartA3647",
+        "title":"Marketing et Communication ",
+        "text":"Favorisez la productivité",
+        "more":"En savoir plus"
+    }    
+   
+]

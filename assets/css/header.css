@@ -173,6 +173,10 @@ header .navbar {
     justify-content: end;
 }
 
+.nav-sub-menu>li:last-child a {
+    justify-content: start;
+}
+
 .list-title {
     color: var(--app-color-text-primary);
     font-size: 1.125rem;

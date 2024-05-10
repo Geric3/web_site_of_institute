@@ -41,7 +41,7 @@ let  dpro = ""
 let pelt = document.getElementsByClassName("projects")
 let url = new URL(document.location.href)
 let orderId = url.searchParams.get('id');
-console.log(orderId)
+
 const title_project = document.querySelector(".title h1")
 let nbproject = document.querySelector(".projects")
 let tab = []
@@ -56,9 +56,7 @@ const display = async () => {
 
     const elt = data.filter(compteur => compteur.id === orderId)
     tab = Object.values(elt)
-    console.log(elt[0].category);
-    console.log(tab[0].category);
-    console.log(nbproject);
+    
     title_project.innerHTML = elt[0].titre
     nbproject.innerHTML = elt[0].projects.length
 
@@ -213,15 +211,14 @@ let tablo =[]
 let urle = new URL(document.location.href)
 let orderIde = urle.searchParams.get('LastName');
 let orderIdes = urle.searchParams.get('FirstName');
-console.log(nam);
-console.log(pname);
+
 
 const confirmRegister = async (namm,pnamm)=>{
     const data = await affichetname()
-    console.log(data);
+   
     document.querySelector(".displa-mode1").style.display = "block"
     const confir = data.filter(els => els.name === namm && els.pname === pnamm)
-    console.log(confir);
+
     if(confir.length != 0){
         document.querySelector(".confirm").innerHTML = "Super!!! terminez le projet sur lequel vous êtes en train de travailler et votre encadreur vous donnera accès au projet suivant."
     }

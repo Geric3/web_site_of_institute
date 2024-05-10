@@ -24,7 +24,7 @@ let thm = ""
 fetch("./data.json")
   .then((res) => res.json())
   .then(function (data) {
-    console.log(data);
+    
     for (let da of data) {
       thm += `
         <a href="./projects-fields-page/index.html?id=${da.id}" data-name="${da.category}" data-id="${da.id}">
@@ -53,7 +53,7 @@ fetch("./data.json")
       ety.addEventListener("click", () => {
         const elt = ety.closest("a")
         const att = elt.getAttribute('data-id');
-        console.log(att)
+        
         let tableau = []
       })
     }
@@ -95,9 +95,9 @@ const func = async () => {
   for (let i = 0; i < elt.length; i++) {
     const indi = elt[i];
     elt[i].addEventListener("click", () => {
-      console.log(elt[i])
+      
       const objet = data.filter(compteur => compteur.category === indi.dataset.name);
-      console.log(objet.length)
+      
       if (objet.length != 0) {
         return displayCategory(objet)
       } else {
@@ -124,13 +124,13 @@ dot.forEach(element => {
 
 const displayAnonc = async (positions) => {
   const data = await afficheUser()
-  console.log(data)
+  
   const dataa = data.filter(e => e.position === positions)
   annonc.innerHTML = dataa[0].description
   image.src = dataa[0].image
   namestuden.innerHTML = dataa[0].name
   pnamestudent.innerHTML = dataa[0].pname
-  console.log(pnamestudent)
+  
 }
 
 
