@@ -220,5 +220,19 @@
         "work":"vous pourrez exercer de nombreux métiers dont celui de développeur web, de développeur front-end,de développeur back-end, de développeur d’application Android, développeur mobile",
         "title":"Développeur web et mobile",
         "language":"HTML, CSS, JavaScript, React, Git/GitHub, NodeJS, Express, MongoDB, MySql les API REST, Kotlin, Java, Android Studio, Git, XML, Firebase"
+    },
+
+    {
+        "id":"datasmarte538sd",
+        "description":[
+            "Réaliser des modélisations de données pour segmenter une audience marketing",
+            "Analyser les ventes en vue d'améliorer la stratégie de l'entreprise",
+            "Interroger une base de données statistiques pour répondre à des questions business",
+            "Réaliser des dashboards avec graphiques et indicateurs de suivi pour suivre et analyser des résultats",
+            "Collecter, agréger et nettoyer des données en vue de réaliser une étude de marché"
+        ],
+        "work":"vous pourrez exercer de nombreux métiers dont celui de Data Analyst, Data Miner, Consultant data, Chargé d'études statistiques, ou encore Analyste financier.",
+        "title":"Data Analyst",
+        "language":"Python, Jupiter, R, Rstudio, MySQL, PostgreSQL, SQL, Knime, PowerBI, Tableau, Pandas, Numpy, Matplotlib, Seaborn."
     }
 ]

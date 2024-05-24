@@ -141,3 +141,27 @@ acordions.forEach(item =>{
     //dis.style.rotate="180deg"
   })
 })
+// code canvas
+// mon élément canvas
+var canvas = document.querySelector('#canvas'); 
+// truc à faire pour écrire ou lire
+var ctx = canvas.getContext('2d');
+ctx.lineWidth  = 5;
+ctx.stokeStyle = "black";
+
+// on crée une image temporaire
+var img_tmp = new Image();
+ 
+// on ajoute un écouteur qui surveille le chargement de la src
+img_tmp.addEventListener('load',function() { // *
+  // on clone et on place à 0,0 notre image
+  ctx.drawImage(img_tmp, 0,0, 790,790);
+});
+ 
+// on donne une source à notre image_tmp (ce qui lancera le load de la ligne *)
+img_tmp.src = document.querySelector('#imgA').src;
+
+/* ctx.drawImage(image, dx, dy); // d => destination
+ctx.drawImage(image, dx, dy, dWidth, dHeight);
+ctx.drawImage(image, sx, sy, sWidth, sHeight, dx, dy, dWidth, dHeight); // s => source */
+

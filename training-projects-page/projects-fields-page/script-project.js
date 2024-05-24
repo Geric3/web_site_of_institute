@@ -62,10 +62,14 @@ const display = async () => {
 
     if (elt[0].titre === "Développeur d'application Python") {
         p_titre.innerHTML = "Construisez des applications web en utilisant le langage de programmation Python et le framework Django."
-    }
+    } 
 
     if (elt[0].titre === "Développeur d'application JavaScript") {
         p_titre.innerHTML = "Construisez des applications web en utilisant le langage de programmation JavaScript, le framework React et construisez des sites web dynamique robuste."
+    }
+
+    if (elt[0].titre === "Data Analyst") {
+        p_titre.innerHTML = "Découvrez le monde de la Data Science : préparez, analysez et modélisez des données."
     }
 
     if (elt[0].titre === "Développeur d'application Java") {

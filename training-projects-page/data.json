@@ -611,7 +611,7 @@
         ]
     },
 
-    {
+    { 
         "id":"dewmobi32876smar89",
         "category":"Développement",
         "projects":[
@@ -656,6 +656,51 @@
             "30 heures supervisées",
             "85 heures supervisées",
             "60 heures supervisées"
+        ]
+    },
+
+    { 
+        "id":"dataAna32023smar89",
+        "category":"Data analyste",
+        "projects":[
+            "Faites une analyse de ventes pour un e-commerce",
+            "Créez et utilisez une base de données immobilière avec SQL",
+            "Réalisez une étude de santé publique avec R ou Python",
+            "Optimisez la gestion des données d'une boutique avec R ou Python",
+            "Analysez les ventes d'une librairie avec R ou Python",
+            "Analysez des indicateurs de l'égalité femme-homme",
+            "Faites une étude sur l'eau potable",
+            "Produisez une étude de marché avec R ou Python",
+            "Détectez des faux billets avec R ou Python",
+            "Créez votre portfolio de professionnel de la data"
+        ],
+        "titre":"Data Analyst",
+        "cover":"./img/img-data-analyst2.png",
+        "description":[
+            "Choisissez les bons graphiques pour synthétiser votre analyse des ventes et générez des graphiques avec Excel",
+            "À partir des données de votre agence immobilière, concevez et créez une base de données, puis faites des requêtes SQL pour extraire certaines données en respect du RGPD",
+            "Prenez en main Python pour analyser les données de la FAO sur la faim dans le monde",
+            "Les données de cette entreprise sont mal organisées. Faites cohabiter les différents jeux de données pour effectuer l'analyse demandée",
+            "Vous avez accès à toutes les données de vente de votre client, une librairie. Répondez à leurs demandes en analysant les comportements d'achats et en réalisant une prévision des ventes.",
+            "Collectez les données des collaborateurs de votre entreprise en respectant le RGPD. Puis tirez-en les indicateurs de l'égalité homme-femme.",
+            "Créez des dashboards sur Power BI pour visualiser les données de l'accès à l'eau potable dans le monde pour votre ONG.",
+            "Etudiez le marché de votre entreprise grâce à du clustering et une ACP pour faire des recommandations stratégiques.",
+            "Construisez un modèle de prédiction pour détecter des faux billets grâce à du clustering et de la régression logistique avec R ou Python.",
+            "Présentez vos compétences et vos projets de formation de Data Analyst sous la forme d’un portfolio original pour convaincre un recruteur potentiel et prendre du recul sur vos compétences."
+        ],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 9 mois + 3 mois de stage",
+        "duree":[
+            "60 heures supervisées",
+            "80 heures supervisées",
+            "100 heures supervisées",
+            "90 heures supervisées",
+            "110 heures supervisées",
+            "90 heures supervisées",
+            "85 heures supervisées",
+            "110 heures supervisées",
+            "90 heures supervisées",
+            "90 heures supervisées"
         ]
     }
 ]
