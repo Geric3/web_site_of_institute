@@ -79,7 +79,7 @@
 }
 
 .accordions-items.active .show-div{
-    max-height: 200px;
+    max-height: 200px; 
 }
 
 .accordions-items.active .collapse-descrip .arrow-down-icon{
