@@ -1,0 +1,164 @@
+[
+    {
+        "id":"msi9803hd",
+        "description":[
+            "Set up your development environment using virtual environments and PyCharm.",
+            "Create web applications using the Django and Django REST frameworks.",
+            "Develop a secure PostgreSQL database.",
+            "Enhance applications with testing, debugging, and refactoring. ",
+            "Use technologies like GitHub, Postman, HTML, CSS, JavaScript, and CircleCI."
+        ],
+        "work":"By following this training, you will be able to work as a Python, Django, Web, or Back-End Developer. Python language can also open doors to data careers, such as Data Scientist",
+        "title":"Python Developer",
+        "language":"Python, Django, Django REST, PyCharm, PostgreSQL, GitHub, Postman, CircleCI, and others !"
+    },
+
+    {
+        "id":"script7674smart5",
+        "description":[
+            "Setup your development environment.",
+            "Implement a responsive layout with HTML5 and CSS3.",
+            "Design and develop user interfaces with React.",
+            "Create dynamic web applications with Javascript, React and APIs.",
+            "Collaborate with designers to translate models into functional applications.",
+            "Optimize applications to maximize their speed and efficiency.",
+            "Integrate data from various back-end sources and databases. ",
+            "Ensure data quality in a web application through testing.",
+            "Contribute to a code project using agile methodology"
+        ],
+        "work":"By following this training, you will be able to work as JavaScript React application developer, front-end developer, also, you could become a mobile developer using React Native or a Back-End Developer with Node.js.",
+        "title":"JavaScript Developer",
+        "language":"JavaScript, React, Redux, HTML, CSS, API, Git et GitHub, and others."
+    },
+
+    {
+        "id":"devsmart3647hd",
+        "description":[
+            "Building a responsive and dynamic website that adapts to all types of screen by integrating elements from the graphic mock-ups (front-end development with HTML, CSS, JavaScript and React)",
+            "Create APIs and databases to develop complete, dynamic sites and ensure that they run smoothly on the server side (back-end development with NodeJS, Express and MongoDB).",
+            "Optimising the performance and maintenance of existing websites to ensure that they function optimally and are visible on search engines (SEO).",
+            "Managing a web project from A to Z: from planning the project to presenting the solution to the customer, including drawing up the technical specifications."
+        ],
+        "work":"By following this training, you will be able to practice many professions including that of web developer, front-end developer, or back-end developer",
+        "title":"Web Developer",
+        "language":"HTML, CSS, JavaScript, React, Git/GitHub, NodeJS, Express, MongoDB, MySql, API REST"
+    },
+
+    {
+        "id":"astl663ht7",
+        "description":[
+            "Jump start your studies by defining a personal learning strategy.",
+            "Program with the Java programming language.",
+            "Use programming tools like an IDE, Git & GitHub and frameworks like Spring Boot.",
+            "Ensure the basic security of a web application.",
+            "Interpret user requirements and propose a technical solution.",
+            "Use domain driven design to create UML diagrams.",
+            "Design database schemas and connect to a database. ",
+            "Test your applications using test driven development.",
+            "Practice agile web development. "
+        ],
+        "work":"By following this training, you will be able to work as Back-end developer , Java developer, or even a developer specializing in the Spring Boot framework.",
+        "title":"Back-end Developer: Java",
+        "language":"Git/GitHub, Java, eclipse, Maven, UX Design, jUnit, Javadoc, Spring Boot, MVC, Solid, UML, SQL, No SQL."
+    },
+
+    
+
+    {
+        "id":"atlahg876",
+        "description":[
+            "Carry out an audit of the functionalities and architecture of an existing application.",
+            "Anticipate the potential costs and risks of a project.",
+            "Design the architecture and software components of an application in compliance with legislation.",
+            "Create test, security, and data backup plans.",
+            "Integrate the front-end and back-end of a program using an API.",
+            "Write automatic tests for both front-end and back-end code.",
+            "Guarantee a quality product by automating compilation and testing through continuous integration and continuous delivery.",
+            "Supervise the execution of a project by a team."
+        ],
+        "work":"You will be able to practice many professions including that of Full-Stack developer, React developer, technical leader, developer analyst or even backend/frontend developer. ",
+        "title":"Full Stack Developer",
+        "language":"JavaScript, React, Redux, HTML, CSS, Git, API REST, SQL, PostGreSQL, MongoDb, Ruby, WordPress, Rails, Bootstrap. GitHub."
+    },
+
+    {
+        "id":"njsoi987t",
+        "description":[
+            "Design and develop robust Android mobile applications using Kotlin and Java languages ",
+            "Develop interactive and accessible user interfaces using XML and Jetpack Compose frameworks ",
+            "Test and debug applications to ensure they work properly",
+            "Optimize application performance for a smooth user experience"
+        ],
+        "work":"You can work in many professions including that of Android application developer, mobile developer, software engineer for mobile applications or even application development consultant.",
+        "title":"Android Developer",
+        "language":"Kotlin, Java, Android Studio, Git, XML, Jetpack Compose, Firebase, Retrofit, Flutter and others."
+    },
+
+    
+
+    {
+        "id":"boj78s4w3",
+        "description":[
+            "Investigate security incidents",
+            "Qualify alerts",
+            "Resolve incidents",
+            "Improve security processes and systems",
+            "Automate incident responses",
+            "Contain incident propagation"
+        ],
+        "work":"You will be able to practice many professions including that of SOC analyst, monitoring analyst and cybersecurity incident detection analyst.",
+        "title":"Cybersecurity Analyst",
+        "language":"IOC, TTP, TLP, killchain, MITRE ATT&CK, MITRE D3FEND, SIEM, SIRP, SOAR, EDR, the sandboxing, network security components (firewalls, IDS/IPS, proxies, WAF), Python, ELK tools, Splunk, TheHive, Cortex, Wireshark / tshark or n8n"
+    },
+
+    {
+        "id":"boj78s4w3",
+        "description":[
+            "Set up a computer to meet a user's needs.",
+            "Install hardware and software in a company’s infrastructure.",
+            "Back up a user’s computer.",
+            "Provide IT assistance following an established procedure.",
+            "Provide support to users on IT tools and security.",
+            "Monitor the availability of a server.",
+            "Manage interactions with IT service providers.",
+            "Manage IT inventory.",
+            "Advocate solutions to improve IT equipment."
+        ],
+        "work":"Once you’ve completed the training, you have a clear path to a wide range of tech positions! As you gain career experience, you can then advance to become a systems administrator or an IT support manager.",
+        "title":"IT Support Technician"
+        
+    },
+
+    {
+        "id":"go7ste538sd",
+        "description":[
+            "Build a responsive and dynamic website that adapts to any type of screen thanks to the integration of graphic model elements (front-end development with HTML, CSS, JavaScript and React)",
+            "Create APIs and databases to develop complete and dynamic sites and ensure proper functioning on the server side (back-end development with NodeJS, Express and MongoDB).",
+            "Optimize the performance and carry out maintenance of existing websites to enable their optimal operation and good visibility on search engines (SEO).",
+            "Manage a web project from A to Z: from project planning to presenting the solution to the client, including writing technical specifications.",
+            "Design and develop robust Android mobile applications using Kotlin and Java languages",
+            "Develop interactive and accessible user interfaces using XML and Jetpack Compose frameworks"
+        ],
+        "work":"You will be able to practice many professions including that of web developer, front-end developer, back-end developer, Android application developer, mobile developer",
+        "title":"Web and Mobile App Developer",
+        "language":"HTML, CSS, JavaScript, React, Git/GitHub, NodeJS, Express, MongoDB, MySql, API REST, Kotlin, Java, Android Studio, Git, XML, Firebase, Flutter"
+    },
+
+    {
+        "id":"ios7ste567sd",
+        "description":[
+            "Implement unit tests and integration tests",
+            "Provide a fix when suggested by the test execution report",
+            "Build an app using persistent data storage, local notifications, and 3rd party libraries",
+            "Write documentation destined for non-technical users",
+            "Respect Industry Standard development practices",
+            "Manage a web project from A to Z: from project planning to presenting the solution to the client, including writing technical specifications.",
+            "Identify tools and resources for staying up to date with technology",
+            "Develop interactive and accessible user interfaces using XML and Flutter frameworks"
+        ],
+        "work":"You will be able to practice many professions including that of iOS Developer, mobile developer, software engineer for mobile applications or even application development consultant. ",
+        "title":"iOS Developer",
+        "language":"Git/GitHub,Xcode environment, Swift, MySql, UML, Firebase, Flutter, Objective-C, XHTML"
+    }
+
+]

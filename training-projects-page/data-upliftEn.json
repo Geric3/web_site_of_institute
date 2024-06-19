@@ -1,0 +1,44 @@
+[
+    {
+        "id":"devSmartA89",
+        "title":"Web and Mobile App Developer",
+        "text":"Promote productivity",
+        "more":"Learn more"
+    },
+
+    {
+        "id":"devpyAtlas287",
+        "title":"Python Developer",
+        "text":"Promote productivity",
+        "more":"Learn more"
+    },
+
+    {
+        "id":"devCodeAs73",
+        "title":"FrontEnd and BackEnd Developer",
+        "text":"Promote productivity",
+        "more":"Learn more"
+    },
+
+    {
+        "id":"secuAtlasC27",
+        "title":"System and Network ",
+        "text":"Promote productivity",
+        "more":"Learn more"
+    },
+
+    {
+        "id":"cybeAtlasC897",
+        "title":"Cybersecurity ",
+        "text":"Promote productivity",
+        "more":"Learn more"
+    },
+
+    {
+        "id":"markSmartA3647",
+        "title":"Marketing & Communication ",
+        "text":"Promote productivity",
+        "more":"Learn more"
+    }    
+   
+]

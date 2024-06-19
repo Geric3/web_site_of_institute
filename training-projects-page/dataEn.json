@@ -1,0 +1,450 @@
+[
+    {
+        "id":"as34nb787",
+        "category":"Development",
+        "projects":[
+            "Use Python Basics for Market Analysis",
+            "Design a Python Application Tailored to a Client's Needs",
+            "Develop a Software Program Using Python",
+            "Develop a User Interface for a Python Web Application",
+            "Solve Problems Using Algorithms in Python",
+            "Develop a Web Application Using Django",
+            "Create a Secure RESTful API Using Django REST",
+            "Enhance a Python Web Application With Testing and Debugging",
+            "Develop a Secure Back-End Architecture Using Django ORM",
+            "Scale a Django Application Using Modular Architecture"
+        ],
+        "titre":"Python Developer",
+        "cover":"./img/img-python.png",
+        "description":[
+            "You work as a marketing analyst at an online bookshop and want to survey your competition. Use Python to track your rivals' prices.",
+            "Your agency has a new client, an online mentoring service that would like to develop an application with Python. Interpret your client's needs and create a prototype.",
+            "The local chess club needs help. You are working as a freelancer, and they have asked you to write a new program to help them manage their events. ",
+            "As a developer at a streaming company, you have been entrusted with a new project: code the user interface of a Flask web application in HTML, CSS, and JS. It’s a great opportunity to gain experience using an API!",
+            "You’ve joined a finance company and have been tasked with making investment programs more competitive. Design an algorithm in Python to maximize profits earned by client!",
+            "You’ve just been hired as lead Python developer at a new startup. Use the powerful Django framework to make their digital product a reality!",
+            "Take your Django skills to the next level by building and documenting a RESTful API in compliance with OWASP and GDPR security standards.",
+            "Improve an existing Flask application. Fix errors and add functionalities using test-driven development. But watch out! Get to know the app inside and out and stay on your toes, you may be faced with last minute requests!",
+            "Save your events management firm from a PR disaster by developing a secure backend API architecture. Use Django ORM and the Django REST framework to deliver customer relationship management (CRM) software.",
+            "Your new employer relies on a monolithic, unscalable Django website. It's up to you to improve its architecture and deployment, and to set up a system for monitoring the code!"
+        ],
+        "diplome":"Parchment delivered : DQP",
+        "time":"Duration : 9 months + 3 months of internship",
+        "duree":[
+            "70 heures supervisées",
+            "70 heures supervisées",
+            "90 heures supervisées",
+            "50 heures supervisées",
+            "65 heures supervisées",
+            "120 heures supervisées",
+            "90 heures supervisées",
+            "110 heures supervisées",
+            "90 heures supervisées",
+            "140 heures supervisées"
+        ]
+        
+    },
+    {
+        "id":"asb23hyd73",
+        "category":"Development",
+        "projects":[
+            "Turn Mock-ups Into a Web Page with HTML & CSS",
+            "Integrate a mobile website with animations in CSS",
+            "First steps in the JavaScript language",
+            "Build a Landing Page Using Javascript",
+            "Create an Accessible Website For a Freelancer Sourcing Platform",
+            "Develop a Search Tool with Bootstrap",
+            "Debug and Test an HR SaaS",
+            "Define User Needs for a Tutoring App",
+            "Develop a Web App with React and React Router",
+            "Develop a Dashboard for Analytics with React",
+            "Connect to a Back End with an API Using React",
+            "Convert a jQuery Library to React"
+        ],
+        "titre":"JavaScript Developer",
+        "cover":"./img/img-JS.png",
+        "description":[
+            "Get started with HTML & CSS by implementing a travel booking platform's website from scratch.",
+            "Implement the mobile version of this foodtech website with CSS animations.",
+            "Create a carousel for a printing company’s website with JavaScript",
+            "Get started with Javascript on this gaming company's website, GameOn. In this first programming project, you'll discover how to code with Javascript from scratch.",
+            "Delve into Javascript with Fisheye to build this freelance photographer platform. Be sure your code makes this web app accessible to all.",
+            "Implement a search algorithm for Les Petits Plats, a recipe website. You will use Bootstrap to build the interface and advanced Javascript methods and tools for optimization.",
+            "The expense report app, Billed, is experiencing a handful of bugs. You'll have to fix as well as write new unit and integration tests to detect future problems.",
+            "A non-profit that tutors children needs your help. Determine their needs and create a plan to tackle them using agile tools such as, User Stories, mock-ups, a Kanban table and use case diagrams.",
+            "Implement the front end of Kasa, a person-to-person, real estate rental app. For this client, you will create components with React and build the routes of your app with React Router.",
+            "Create the consumer-facing dashboard of a sports analytics platform, SportSee. Build graphs and charts with React and use an API to fetch data.",
+            "Remede Agency needs you to complete their website's code to communicate with the back end. You'll write REST API calls to connect the front end to the back end of the website and model new API endpoints.",
+            "Help refactor HRnet's website. You will choose a jQuery library and turn it into a React plugin. Use LightHouse to monitor the performance of your new code."
+
+        ],
+        "diplome":"Parchment delivered: DQP",
+        "time":"Duration : 9 months + 3 months of internship",
+        "duree":[
+            "70 heures supervisées",
+            "75 heures supervisées",
+            "30 heures supervisées",
+            "35 heures supervisées",
+            "80 heures supervisées",
+            "85 heures supervisées",
+            "70 heures supervisées",
+            "50 heures supervisées",
+            "75 heures supervisées",
+            "65 heures supervisées",
+            "110 heures supervisées",
+            "130 heures supervisées"
+        ]
+        
+    },
+    {
+        "id":"smart46782",
+        "category":"Development",
+        "projects":[
+            "Debug a Java application",
+            "Design an Application to Fit Your Client's Needs",
+            "Fix and Update a Java Application Using Best Testing Practices",
+            "Create Your First Java Web Application From Scratch!",
+            "Work with Databases to Create a Secure Web Application",
+            "Complete Your Java Back-End to Make Your Application More Secure",
+            "Scale Up Your App With Distributed Systems",
+            "Develop a Complete Application For Your Client Using Agile Techniques"
+        ],
+        "titre":"Back-end Developer: Java",
+        "cover":"./img/img-java.png",
+        "description":[
+            "You've been hired to finish an application another developer has started, and it's up to you to make sure that it gets up and running correctly! Get ready to make your mark and fix your first Java application!",
+            "Analyze your client's needs, develop a domain model using a domain-driven design approach, create user stories, and design wireframes to get your client on board.",
+            "You’re taking over work on an unfinished application and a number of tests are failing. Your mission is to fix the application and add a missing functionality so that your client leaves happy!",
+            "Implement an application to help first responders receive alerts using Spring Boot, a popular Java framework. You'll use quality code practices such as organizing your code with MVC, applying the SOLID principles, and respecting the Testing Pyramid!",
+            "You're working on a money transfer app, which means you need to access and store data securely in a database. You'll design and implement your database schema in a relational database.",
+            "Modernize the backend of a financial application with a REST API. Make sure it's tested and ready for deployment!",
+            "A travel agency has asked you to adapt its monolithic application so that it can evolve more easily. Now it's up to you to make a more efficient, decoupled web application!",
+            "Build a medical app for disease risk screenings. Structure your app using a microservice and a NoSQL database. Organize your time into sprints, following Agile project management principles."
+        ],
+        "diplome":"Parchment delivered : DQP",
+        "time":"Duration : 9 months + 3 months of internship",
+        "duree":[
+            "80 heures supervisées",
+            "80 heures supervisées",
+            "85 heures supervisées",
+            "140 heures supervisées",
+            "160 heures supervisées",
+            "110 heures supervisées",
+            "160 heures supervisées",
+            "170 heures supervisées"
+        ]
+        
+    },
+    
+    {
+        "id":"smartc23g34",
+        "category":"Development",
+        "projects":[
+            "Explore Android Mobile Development",
+            "Develop your first Android application in Java",
+            "Implement access to external data for an application in Kotlin",
+            "Design a database for an Android application",
+            "Choose your specialty language",
+            "Implement a local database using ROOM",
+            "Build an Android app in MVVM from A to Z",
+            "Improve an existing interface to make it more accessible",
+            "Plan an Android development project",
+            "Create a dynamic and accessible interface with Jetpack Compose",
+            "Implement a database with Firebase",
+            "Test an Android app",
+            "Build an Android app from A to Z with Flutter"
+        ],
+        "titre":"Android Developer",
+        "cover":"./img/img-android.png",
+        "description":[
+            "Take your first steps in Android development with XML and Java.",
+            "Deepen your Java skills and discover good programming practices (OOP and MVVM) to create a dynamic interface.",
+            "Dive into Kotlin, the most sought-after Android programming language on the market, and manage data access.",
+            "Model the technical solution using UML.",
+            "Consider the advantages of both languages, Kotlin and Java, and specialize in one of them.",
+            "Manage private data when using an offline application thanks to database models.",
+            "Validate mastery of fundamental Android development skills by developing a complete app.",
+            "Apply accessibility best practices using agile methodologies to improve an existing UI.",
+            "Validate your project planning skills by analyzing, designing and organizing a project.",
+            "Use the Jetpack Compose framework and implement design patterns to develop an advanced mobile interface.",
+            "Set up a secure database using Firebase.",
+            "Implement unit tests and integration tests to refactor an Android application using Behavior Driven Development.",
+            "Use the Flutter framework and create an advanced multi-platform mobile application."
+        ],
+        "diplome":"Parchment delivered : DQP",
+        "time":"Duration : 9 months + 3 months of internship",
+        "duree":[
+            "50 heures supervisées",
+            "90 heures supervisées",
+            "80 heures supervisées",
+            "30 heures supervisées",
+            "10 heures supervisées",
+            "40 heures supervisées",
+            "85 heures supervisées",
+            "40 heures supervisées",
+            "60 heures supervisées",
+            "70 heures supervisées",
+            "60 heures supervisées",
+            "40 heures supervisées",
+            "70 heures supervisées"
+        ]
+        
+    },
+    {
+        "id":"bqweb23438",
+        "category":"Development",
+        "projects":[
+            "Turn Mock-ups Into a Web Page with HTML & CSS",
+            "Dynamize a web page with CSS animations",
+            "Create a Dynamic Web Page With JavaScript",
+            "Plan the development of your client's site",
+            "Debug and Optimize a Photographer's Website",
+            "Create a Property Rental Web Application with React",
+            "Develop the back-end of a book rating website",
+            "Create and publish your developer portfolio"
+        ],
+        "titre":"Web Developer",
+        "cover":"./img/img-dev-web.png",
+        "description":[
+            "Get started with HTML & CSS by implementing a webpage for Booki, a travel booking platform.",
+            "Implement a mobile version of a restaurant website with CSS animations.",
+            "Help your team finalize an interior designer's new website by creating a dynamic site with JavaScript, communicating with an API.",
+            "Plan each stage of the project to develop a menu creation site for restaurant owners.",
+            "Help your client to appear at the top of Google search results thanks to good SEO and accessibility practices. You will also have to debug certain anomalies in the code.",
+            "Implement the front end of Kasa, a housing rental application. Set up components with React and application routes with React Router.",
+            "Create the back-end of a book rating site so that it integrates properly with the front-end. You'll be using Node.js, Express and MongoDB.",
+            "Take stock of your skills, prepare your job search and deploy your online portfolio to give visibility to your projects."
+        ],
+        "diplome":"Parchment delivered : DQP",
+        "time":"Duration : 6 months + 3 months of internship",
+        "duree":[
+            "80 heures supervisées",
+            "90 heures supervisées",
+            "70 heures supervisées",
+            "50 heures supervisées",
+            "50 heures supervisées",
+            "70 heures supervisées",
+            "70 heures supervisées",
+            "70 heures supervisées",
+            "40 heures supervisées"
+        ]
+        
+    },
+    {
+        "id":"fulsmart23189",
+        "category":"Development",
+        "projects":[
+            "Integrate a WordPress theme for a client",
+            "Analyze a client's needs for their film festival",
+            "Build your portfolio site using React",
+            "Map out a technical solution for the food delivery site ExpressFood",
+            "Track your fitness habits",
+            "Create a website for a prestigious bike race",
+            "Build an aid platform for your neighborhood",
+            "Manage a collaborative project by integrating a CI/CD approach",
+            "Train and supervise a Full-Stack development team",
+            "Schedule testing, monitoring and backups",
+            "Develop a full satck application",
+            "Define a functional solution and design an application architecture"
+        ],
+        "titre":"Full Stack Developer",
+        "cover":"./img/img-fulstack.png",
+        "description":[
+            "Your new client is a real estate agency. It still has no website to show off its luxury chalets for sale!",
+            "You are working for a freelance developer. Your client needs to publicize the festival, so, he needs a website.He needs to display information about the festival, and regularly published news or announcements about the festival.",
+            "The technologies you'll use in this project are HTML, CSS, JavaScript, and of course: React. You will use a library called React Router in order to create a single-page app.",
+            "You've been recruited by a young startup called ExpressFood. ExpressFood needs you to make a database for them!",
+            "Physical activity is important for health. In this project, you'll build a fitness tracker site called Move and Groove that allows users to sign up and log activities of different kinds.",
+            "It's the Boulder Bike Tour, and it's coming up next year! The organizers need a website for the event and have launched a call for proposals, meaning you will be submitting your idea for the bike tour's site!",
+            "In this project, you'll build an aid platform that connects people in need to willing volunteers in your (or any) community.",
+            "Help your friend develop his open-source joke of the day application with the help of the development community.",
+            "Lead a team to success in a development project using agile methodology.",
+            "Improve V1 of an interior design app using testing, security, and data backup plans.",
+            "Create a social network for developers.",
+            "Design the architecture of an all-inclusive car rental application."
+        ],
+        "diplome":"Parchment delivered : DQP",
+        "time":"Duration : 9 months + 3 months of internship",
+        "duree":[
+            "40 heures supervisées",
+            "50 heures supervisées",
+            "40 heures supervisées",
+            "80 heures supervisées",
+            "40 heures supervisées",
+            "30 heures supervisées",
+            "40 heures supervisées",
+            "50 heures supervisées",
+            "30 heures supervisées",
+            "50 heures supervisées",
+            "90 heures supervisées",
+            "50 heures supervisées"
+        ]
+        
+    },
+
+    {
+        "id":"ancisamrt23754",
+        "category":"Cybersecurity",
+        "projects":[
+            "Discover the incident detection and response ecosystem and cybersecurity best practices",
+            "Collect, analyze your first logs and classify alerts",
+            "Write your first scripts in Python",
+            "Contain your first incidents",
+            "Investigate your first cybersecurity incidents",
+            "Build your portfolio and demonstrate your SOC Cybersecurity Analyst skills"
+        ],
+        "titre":"Cybersecurity Analyst",
+        "cover":"./img/img-analyst-ciber.png",
+        "description":[
+            "Integrate the SOC of a large company. Immerse yourself in real conditions by discovering the tools, processes and organization of operational defense and write your first elements of internal documentation.",
+            "Collect and analyze logs from an online training organization in order to classify its cybersecurity alerts.",
+            "A website host monitoring its public IPs wants to automate the neutralization of compromised files. Automate the cleanup of compromised files with Python.",
+            "Based on the observable elements collected, you will identify possible actions to contain the incident on the information system of an international bank.",
+            "Carry out in-depth analyzes of a food industry's cybersecurity incident.",
+            "Promote the acquisition of your Cybersecurity Analyst skills and build your portfolio or carry out field experience."
+        ],
+        "diplome":"Parchment delivered : DQP",
+        "time":"Duration : 9 months + 3 months of internship",
+        "duree":[
+            "50 heures supervisées",
+            "50 heures supervisées",
+            "50 heures supervisées",
+            "50 heures supervisées",
+            "70 heures supervisées",
+            "400 heures supervisées"
+        ]
+    },
+
+    {
+        "id":"resosecusmart763628",
+        "category":"System and Networks",
+        "projects":[
+            "Assemble the Ideal Computer for Your Customer",
+            "Deploy IT Equipment for a Start-up",
+            "Develop the IT Infrastructure of an SME",
+            "Secure the Workstations in an IT Inventory",
+            "Provide User Support",
+            "IT Service Management on a Daily Basis",
+            "Improve a Company's Information System"
+        ],
+        "titre":"IT Support Technician",
+        "cover":"./img/img-reso.png",
+        "description":[
+            "Research and prepare a quote to the specifications for an architect's customized PC",
+            "Follow an action plan to install workstations for a small robotics company, ensure automatic updates and remote control, and intervene on a defective machine.",
+            "Upgrade a small law firm's IT equipment by setting up their new infrastructure, installing a Virtual Machine, and providing them with technical documentation.",
+            "Ensure IT security at a digital bank with automatic backup, antivirus software and safety communications.",
+            "Serve as an integral part of the HelpDesk team at a global company by responding to and organizing tickets with ZenDesk IT software.",
+            "Perform a variety of IT support tasks in a typical technician's day using ServiceNow.",
+            "Propose a software solution for your company's information system on a topic of your choice."
+        ],
+        "diplome":"Parchment delivered : DQP",
+        "time":"Duration : 6 months + 3 months of internship",
+        "duree":[
+            "60 heures supervisées",
+            "70 heures supervisées",
+            "80 heures supervisées",
+            "70 heures supervisées",
+            "70 heures supervisées",
+            "70 heures supervisées",
+            "80 heures supervisées"
+        ]
+    },
+
+    { 
+        "id":"dewmobi32876smar89",
+        "category":"Development",
+        "projects":[
+            "Turn Mock-ups Into a Web Page with HTML & CSS",
+            "Dynamize a web page with CSS animations",
+            "Create a Dynamic Web Page With JavaScript",
+            "Create a Property Rental Web Application with React",
+            "Develop the back-end of a book rating website",
+            "Explore Android Mobile Development",
+            "Develop your first Android application in Java",
+            "Implement access to external data for an application in Kotlin",
+            "Design a database for an Android application",
+            "Build an Android app in MVVM from A to Z",
+            "Implement a database with Firebase",
+            "Build an Android app from A to Z with Flutter"
+        ],
+        "titre":"Web and Mobile App Developer",
+        "cover":"./img/img-dewmobil.png",
+        "description":[
+            "Get started with HTML & CSS by implementing a webpage for Booki, a travel booking platform.",
+            "Implement a mobile version of a restaurant website with CSS animations.",
+            "Help your team finalize an interior designer's new website by creating a dynamic site with JavaScript, communicating with an API.",
+            "Implement the front end of Kasa, a housing rental application. Set up components with React and application routes with React Router.",
+            "Create the back-end of a book rating site so that it integrates properly with the front-end. You'll be using Node.js, Express and MongoDB.",
+            "Take your first steps in Android development with XML and Java.",
+            "Deepen your Java skills and discover good programming practices (OOP and MVVM) to create a dynamic interface.",
+            "Dive into Kotlin, the most sought-after Android programming language on the market, and manage data access.",
+            "Model the technical solution using UML.",
+            "Validate mastery of fundamental Android development skills by developing a complete app.",
+            "Set up a secure database using Firebase.",
+            "Use the Flutter framework and create an advanced multi-platform mobile application."
+        ],
+        "diplome":"Parchment delivered : DQP",
+        "time":"Duration : 9 months + 3 months of internship",
+        "duree":[
+            "80 heures supervisées",
+            "90 heures supervisées",
+            "70 heures supervisées",
+            "70 heures supervisées",
+            "70 heures supervisées",
+            "50 heures supervisées",
+            "90 heures supervisées",
+            "80 heures supervisées",
+            "30 heures supervisées",
+            "85 heures supervisées",
+            "60 heures supervisées",
+            "70 heures supervisées"
+        ]
+    },
+
+    { 
+        "id":"dewiOS3578smar71",
+        "category":"Development",
+        "projects":[
+            "Analyze the needs of your client for their group of pizzerias",
+            "Create an entertaining app right off the bat!",
+            "Implement your first algorithm in Swift!",
+            "Build Gridy, a photo puzzle app",
+            "Design a pizzeria’s technical management system",
+            "Create FocusOn App",
+            "Document and manage a pizzeria",
+            "Develop Popcorn Swirl, a movie deal app",
+            "Enhance functionality of an existing app",
+            "Build an iOS app from A to Z with Flutter"
+        ],
+        "titre":"iOS Developer",
+        "cover":"./img/img-iOS-Dev.png",
+        "description":[
+            "Your job is, to analyze the customer's request. You will rely on UML to perform this analysis and develop the functional specifications.",
+            "You are fascinated by Apple’s ecosystem, and have decided to become an iOS developer! As you can guess, you’ve decided to create a fun party app!",
+            "You will create an algorithm that will match people with different interests so that they can learn from each other.",
+            "The app will allow the user to randomly choose one of the photos within the app or use a custom photo from their phone’s photo library. ",
+            "As a Data Analyst, your job at this stage is to define the functional area and come up with a technical architecture that responds to the needs of the client.",
+            "The app will ask the user to write down a single goal for the day and the 3 tasks that will help them achieve it.",
+            "As a developer, your role is obviously to develop the system, but also to document it.",
+            "The app will display lists of movies available to watch on Netflix for various categories, and show the 'Latest’ section by default. ",
+            "The app must allow the user to set, modify, and delete multiple alarms. Each alarm entry may be set on ‘repeat mode’ for any day of the week.",
+            "Use the Flutter framework and create an advanced multi-platform mobile application."
+        ],
+        "diplome":"Parchment delivered : DQP",
+        "time":"Duration : 9 months + 3 months of internship",
+        "duree":[
+            "80 heures supervisées",
+            "90 heures supervisées",
+            "70 heures supervisées",
+            "70 heures supervisées",
+            "70 heures supervisées",
+            "50 heures supervisées",
+            "90 heures supervisées",
+            "80 heures supervisées",
+            "30 heures supervisées",
+            "70 heures supervisées"
+        ]
+    }
+
+]

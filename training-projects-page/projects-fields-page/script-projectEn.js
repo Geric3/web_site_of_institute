@@ -1,5 +1,5 @@
 export const affiche = async (e) => {
-    const list = await fetch("../data.json", {
+    const list = await fetch("../dataEn.json", {
         method: "GET",
         headers: {
             "content-type": "application/json",
@@ -11,8 +11,9 @@ export const affiche = async (e) => {
     // console.log(list);
 }
 
+
 export const affichetwo = async (e) => {
-    const list = await fetch("../data-mission.json", {
+    const list = await fetch("../data-missionEn.json", {
         method: "GET",
         headers: {
             "content-type": "application/json",
@@ -41,15 +42,18 @@ let  dpro = ""
 let pelt = document.getElementsByClassName("projects")
 let url = new URL(document.location.href)
 let orderId = url.searchParams.get('id');
-
 const idvar = orderId; 
 
 const title_project = document.querySelector(".title h1")
 let nbproject = document.querySelector(".projects")
+
 let changedLang = document.querySelector(".page")
 
 changedLang.addEventListener("click", ()=>{
-    document.location.href='index-en-project-fields-page.html?id='+ idvar;
+    
+        document.location.href='index.html?id='+ idvar;
+   
+    
     console.log("bbbobobobob");
     console.log(idvar);
     //display()
@@ -67,73 +71,55 @@ const display = async () => {
     const elt = data.filter(compteur => compteur.id === orderId)
     tab = Object.values(elt)
 
-    console.log(elt);
-
     if(elt.length===0){
-        return document.location.href='../index.html';
+        return document.location.href='../indexEn.html';
     }
     
     title_project.innerHTML = elt[0].titre
     nbproject.innerHTML = elt[0].projects.length
 
-    if (elt[0].titre === "Développeur d'application Python") {
-        p_titre.innerHTML = "Construisez des applications web en utilisant le langage de programmation Python et le framework Django."
+    if (elt[0].titre === "Python Developer") {
+        p_titre.innerHTML = "Build powerful web applications using the popular programming language, Python and the Django framework."
     } 
 
-    if (elt[0].titre === "Développeur d'application JavaScript") {
-        p_titre.innerHTML = "Construisez des applications web en utilisant le langage de programmation JavaScript, le framework React et construisez des sites web dynamique robuste."
+    if (elt[0].titre === "JavaScript Developer") {
+        p_titre.innerHTML = "Create website interfaces, styles, and animations like the ones you know and use everyday."
     }
 
-    if (elt[0].titre === "Data Analyst") {
-        p_titre.innerHTML = "Découvrez le monde de la Data Science : préparez, analysez et modélisez des données."
+    if (elt[0].titre === "Cybersecurity Analyst") {
+        p_titre.innerHTML = "Learn how to detect cybersecurity incidents, protect, defend a business and acquire professional Cybersecurity Analyst skills."
     }
 
-    if (elt[0].titre === "Développeur d'application Java") {
-        p_titre.innerHTML = "Construisez des applications ou logiciel sécurisé en utilisant le langage de programmation Java et le framework Spring."
+
+    if (elt[0].titre === "Back-end Developer: Java") {
+        p_titre.innerHTML = "Learn software development using Java, one of the most widely-used programming languages in the world."
     }
 
-    if (elt[0].titre === "Développeur d'application PHP") {
-        p_titre.innerHTML = "Construisez des applications ou logiciel sécurisé en utilisant le langage de programmation PHP et les framework Symfony et Laravel."
+    if (elt[0].titre === "Android Developer") {
+        p_titre.innerHTML = "Build robust and accessible Android apps with Kotlin and Java programming languages."
     }
 
-    if (elt[0].titre === "Développeur d'application Android") {
-        p_titre.innerHTML = "Créez des applications Android robustes et accessibles avec les langages de programmation Kotlin et Java."
+    if (elt[0].titre === "Web Developer") {
+        p_titre.innerHTML = "Start your career in web development by learning to build responsive, dynamic websites."
     }
 
-    if (elt[0].titre === "Développeur Web") {
-        p_titre.innerHTML = "Faites vos premiers pas dans le monde du développement web en apprenant à créer des sites avec React !"
-    }
-
-    if (elt[0].titre === "Développeur Full Stack") {
-        p_titre.innerHTML = "Devenez un expert en programmation full-stack avec Java et Angular en conception et qualité logicielle."
+    if (elt[0].titre === "Full Stack Developer") {
+        p_titre.innerHTML = "Become an expert in full-stack programming with Ruby and React in software design and quality."
     }
     
-    if (elt[0].titre === "Marketing Digital") {
-        p_titre.innerHTML = "Garantissez la cohérence de marque et l'application de la stratégie marketing de votre entreprise."
+
+
+    if (elt[0].titre === "IT Support Technician") {
+        p_titre.innerHTML = "Enter the field of information technology by learning how to manage IT equipment and provide user support."
     }
 
-    if (elt[0].titre === "Responsable en sécurité des systèmes d'information") {
-        p_titre.innerHTML = "Apprenez à mettre en œuvre une stratégie de cybersécurité dans votre entreprise et déployez-la en continu."
+    if (elt[0].titre === "iOS Developer") {
+        p_titre.innerHTML = "Build robust and accessible iOS apps with Swift and Objective-C programming languages."
     }
 
-    if (elt[0].titre === "Administrateur des systèmes et réseaux informatique") {
-        p_titre.innerHTML = "Concevez et gérez les réseaux et systèmes d’information des entreprises, ainsi que leur sécurité."
-    }
 
-    if (elt[0].titre === "Développeur WordPress") {
-        p_titre.innerHTML = "Découvrez le monde du développement web en apprenant à créer des sites WordPress !"
-    }
-
-    if (elt[0].titre === "Community Manager") {
-        p_titre.innerHTML = "Gérez la présence des marques pour lesquelles vous travaillez sur les réseaux sociaux !"
-    }
-    
-    if (elt[0].titre === "Analyste Cybersécurité") {
-        p_titre.innerHTML = "Apprenez à détecter les incidents de cybersécurité,à protéger, à défendre une entreprise et à acquérir des compétences professionnelles en Analyste Cybersécurité. "
-    }
-
-    if (elt[0].titre === "Développeur web et mobile") {
-        p_titre.innerHTML = "Découvrez le monde du développement web en apprenant à créer des sites avec React, des applications Android robustes et accessibles avec les langages de programmation Kotlin et Java."
+    if (elt[0].titre === "Web and Mobile App Developer") { 
+        p_titre.innerHTML = "Discover the world of web development by learning to create sites with React, robust and accessible Android applications with the Kotlin and Java programming languages."
     }
 
     for (let p = 0; p < elt[0].projects.length; p++) {
@@ -169,7 +155,7 @@ const display = async () => {
     const elp = document.querySelector(".bloc-items-oppotu")
     const lan = document.querySelector(".languages")
     elp.innerHTML = eltmision[0].work
-    if(eltmision[0].title === "Marketing Digital" || eltmision[0].title === "Bureautique" || eltmision[0].title === "Responsable en sécurité des systèmes d'information"){
+    if(eltmision[0].title === "Marketing Digital" || eltmision[0].title === "Bureautique" || eltmision[0].title === "IT Support Technician"){
         const divv = document.querySelector(".language")
         divv.style.display = "none"
     }else{

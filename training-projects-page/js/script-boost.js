@@ -36,7 +36,7 @@ fetch("./data-boost.json")
                     <p> durée:  ${da.dure}</p>
   
                     <div class="cardNote">
-                      <p>diplome:  ${da.diplome}</p>
+                      <p>diplôme:  ${da.diplome}</p>
                     </div>
                   </div>
                 </div>

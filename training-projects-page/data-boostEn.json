@@ -1,0 +1,71 @@
+[
+    {
+        "id":"se32smart48",
+        "title":"Introduction to Excel and Word",
+        "dure":"6 weeks",
+        "diplome":"certification"
+    },
+
+    {
+        "id":"agilr32samrt438h",
+        "title":"Agile project management",
+        "dure":"6 weeks",
+        "diplome":"certification"
+    },
+
+    {
+        "id":"react34smart48h",
+        "title":"Learn the React Js framework",
+        "dure":"9 weeks",
+        "diplome":"certification"
+    },
+
+    {
+        "id":"next8hdsmart7",
+        "title":"Learn the Next Js framework",
+        "dure":"9 weeks",
+        "diplome":"certification"
+    },
+
+    {
+        "id":"django439smart74hd",
+        "title":"Learn the Django framework",
+        "dure":"9 weeks",
+        "diplome":"certification"
+    },
+
+    {
+        "id":"server47atlas997sc",
+        "title":"Building a server with JavaScript",
+        "dure":"9 weeks",
+        "diplome":"certification"
+    },
+
+    {
+        "id":"redux123smart35a",
+        "title":"Using the Redux library",
+        "dure":"6 weeks",
+        "diplome":"certification"
+    },
+
+    {
+        "id":"apitpy239smart09j",
+        "title":"Building a Restful API in Python",
+        "dure":"9 weeks",
+        "diplome":"certification"
+    },
+
+    {
+        "id":"apirest328SCA",
+        "title":"Build a REST API in JavaScript",
+        "dure":"9 weeks",
+        "diplome":"certification"
+    },
+
+    {
+        "id":"outil8073smart21d",
+        "title":"Git/Github version management tool",
+        "dure":"6 weeks",
+        "diplome":"certification"
+    }
+]

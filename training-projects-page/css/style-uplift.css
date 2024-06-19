@@ -53,12 +53,20 @@
     margin-left: -86%;
 }
 
+.eng{
+    margin-left: -84%;
+}
+
 .change{
     margin-left: -76%;
 }
 
 .change2{
     margin-left: -82%;
+}
+
+.change2En{
+    margin-left: -79%;
 }
 
 .displayt{
@@ -98,8 +106,16 @@
         margin-left: -40%;
     }
 
+    .eng {
+        margin-left: -38%;
+    }
+
     .change2 {
         margin-left: -17%;
+    }
+
+    .change2En {
+        margin-left: -13%;
     }
 
     .change {
