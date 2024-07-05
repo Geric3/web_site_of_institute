@@ -132,6 +132,10 @@ const display = async () => {
         p_titre.innerHTML = "Apprenez à détecter les incidents de cybersécurité,à protéger, à défendre une entreprise et à acquérir des compétences professionnelles en Analyste Cybersécurité. "
     }
 
+    if (elt[0].titre === "Machine Learning Engineer") {
+        p_titre.innerHTML = "Concevez des modèles prédictifs et autonomes. "
+    }
+
     if (elt[0].titre === "Développeur web et mobile") {
         p_titre.innerHTML = "Découvrez le monde du développement web en apprenant à créer des sites avec React, des applications Android robustes et accessibles avec les langages de programmation Kotlin et Java."
     }

@@ -661,7 +661,7 @@
 
     { 
         "id":"dataAna32023smar89",
-        "category":"Data analyste",
+        "category":"Data",
         "projects":[
             "Faites une analyse de ventes pour un e-commerce",
             "Créez et utilisez une base de données immobilière avec SQL",
@@ -701,6 +701,45 @@
             "110 heures supervisées",
             "90 heures supervisées",
             "90 heures supervisées"
+        ]
+    },
+
+    { 
+        "id":"MLAna376354smar89",
+        "category":"Data",
+        "projects":[
+            "Préparez des données pour un organisme de santé publique",
+            "Anticipez les besoins en consommation de bâtiments",
+            "Segmentez des clients d'un site e-commerce",
+            "Catégorisez automatiquement des questions",
+            "Classez des images à l'aide d'algorithmes de Deep Learning",
+            "Développez une preuve de concept",
+            "Réalisez un traitement dans un environnement Big Data sur le Cloud",
+            "Réalisez le cadrage d’un projet IA"
+        ],
+        "titre":"Machine Learning Engineer",
+        "cover":"./img/img-ML.png",
+        "description":[
+            "L'agence Santé publique France a lancé un appel à projet autour des problématiques alimentaires. Vous proposerez une application basée sur des données nutritionnelles.",
+            "Pour atteindre son objectif de ville neutre en émissions de carbone en 2050, la ville de Seattle a besoin de vous. Votre mission ? Prédire la consommation électrique des bâtiments municipaux.",
+            "Vous êtes consultant pour Olist, un site e-commerce brésilien. Les équipes marketing ont besoin de segmenter leurs clients pour optimiser les campagnes de communication.",
+            "Sur le site Stack Overflow, les utilisateurs posent des questions liées à l’informatique. Vous êtes en charge de développer un système permettant de tagger automatiquement les questions des utilisateurs.",
+            "Une association animalière souhaite automatiser l'identification de ses pensionnaires à partir de leurs photos. C'est l'occasion d'utiliser des modèles de Deep Learning, très performants pour classer des images !",
+            "Dans ce projet libre, vous ferez une recherche sur l'état de l'art dans le but de développer une preuve de concept (POC). Vous développerez un tableau de bord pour partager votre démarche et vos résultats.",
+            "Votre startup de l'AgriTech souhaite développer une application mobile permettant de détecter des fruits sur une photo. À vous d'industrialiser le modèle à grande échelle grâce aux outils du big data.",
+            "Dans quelques jours va se tenir le COMEX qui validera la roadmap produit de votre entreprise. Vous allez cadrer le projet afin de convaincre les dirigeants que votre produit possède un fort potentiel."
+        ],
+        "diplome":"Parchemin délivré : DQP",
+        "time":"Durée : 9 mois + 3 mois de stage",
+        "duree":[
+            "90 heures supervisées",
+            "110 heures supervisées",
+            "90 heures supervisées",
+            "140 heures supervisées",
+            "120 heures supervisées",
+            "80 heures supervisées",
+            "60 heures supervisées",
+            "60 heures supervisées"
         ]
     }
 ]

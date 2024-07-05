@@ -234,5 +234,20 @@
         "work":"vous pourrez exercer de nombreux métiers dont celui de Data Analyst, Data Miner, Consultant data, Chargé d'études statistiques, ou encore Analyste financier.",
         "title":"Data Analyst",
         "language":"Python, Jupiter, R, Rstudio, MySQL, PostgreSQL, SQL, Knime, PowerBI, Tableau, Pandas, Numpy, Matplotlib, Seaborn."
+    },
+
+    {
+        "id":"MLsmarte785sd",
+        "description":[
+            "Explorer et analyser les données pour comprendre les tendances et les performances d'une entreprise ou d'un produit.",
+            "Élaborer des modèles prédictifs pour identifier les nouvelles tendances et opportunités (sur des données structurées et non structurées).",
+            "Effectuer des classifications grâce à des algorithmes de Deep Learning.",
+            "Mettre en œuvre une démarche MLOps complète de gestion du cycle de vie des modèles de bout en bout pour automatiser les processus d'entreprise et améliorer leur efficacité.",
+            "Communiquer les résultats à des spécialistes ou à des néophytes grâce à des visualisations.",
+            "Participer à l'organisation et au pilotage d'un projet de data science / IA."
+        ],
+        "work":"vous pourrez exercer de nombreux métiers, dont ceux de machine learning engineer, de data engineer, de deep learning engineer, ou encore de data architect.",
+        "title":"Machine Learning Engineer",
+        "language":"Python, Jupyter Notebook, Git, Github, Streamlit, MLFlow, NLP, Computer Vision, Deep Learning, MLOps, Cloud (AWS, Azure, Heroku, Google Cloud), Databricks, API, Hadoop/PySpark"
     }
 ]

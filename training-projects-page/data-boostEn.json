@@ -14,6 +14,13 @@
     },
 
     {
+        "id":"cloud32samrt438h",
+        "title":"Cloud Computing",
+        "dure":"12 weeks",
+        "diplome":"certification"
+    },
+
+    {
         "id":"react34smart48h",
         "title":"Learn the React Js framework",
         "dure":"9 weeks",
