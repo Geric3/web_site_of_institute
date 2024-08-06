@@ -124,7 +124,7 @@ const display = async () => {
 
     for (let p = 0; p < elt[0].projects.length; p++) {
         projectField += `
-        <a href="#" class="bloc-projects-field" data-name="Projet ${p + 1}">
+        <a href="#" class="bloc-projects-field" data-name="Project ${p + 1}">
                         <div class="bloc-type-twins engagement-bloc">
 
                             <div class="bloc-type-twins-second project-descrip">
@@ -138,7 +138,7 @@ const display = async () => {
                             </div>
                             <div class="bloc-type-twins-first project-title">
                                 <!-- <img src="../img/img-projet.png" alt=""> -->
-                                <h2>Projet ${p + 1}</h2>
+                                <h2>Project ${p + 1}</h2>
                                 <p> ${elt[0].projects[p]}
                                 </p>
                                 
